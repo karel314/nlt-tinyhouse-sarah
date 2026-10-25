@@ -1,0 +1,134 @@
+{
+  "appId": "nlt-tinyhouse-sarah",
+  "title": "NLT Voel je thuis",
+  "shortName": "NLT Tiny House",
+  "subtitle": "Bouwfysica en architectuur",
+  "description": "Quiz app voor NLT-module Voel je thuis (Tiny House), H3 Theorie bouwfysica en architectuur - 5 havo",
+  "studentName": "Sarah",
+  "greeting": "Hoi Sarah! Klaar om te stampen?",
+  "lang": "nl",
+  "storageKey": "nlt-tinyhouse-sarah-progress",
+  "theme": {
+    "primary": "#ea580c",
+    "light": "#fb923c",
+    "dark": "#c2410c",
+    "bg": "#fff7ed",
+    "bgAccent": "#ffedd5"
+  },
+  "gridColumns": 2,
+  "dataFiles": [
+    "data/vragen.json"
+  ],
+  "badges": {
+    "1": {
+      "name": "Architect",
+      "emoji": "🏠"
+    },
+    "2": {
+      "name": "Lichtontwerper",
+      "emoji": "💡"
+    },
+    "3": {
+      "name": "Frisse-luchtexpert",
+      "emoji": "🌬️"
+    },
+    "4": {
+      "name": "Geluidsdemper",
+      "emoji": "🔇"
+    },
+    "5": {
+      "name": "Isolatiekampioen",
+      "emoji": "🔥"
+    }
+  },
+  "correctMsgs": [
+    "Goed! Dat staat als een huis!",
+    "Helemaal goed, jouw Rc-waarde is torenhoog!",
+    "Top! Daar zit geen kiertje in.",
+    "Knap! Dat is 10 keer zo sterk... of eigenlijk 10 dB beter!",
+    "Helder als daglicht van 5500 K!",
+    "Jij ventileert je kennis perfect!",
+    "Precies! Een architect zou trots zijn.",
+    "Geen tocht te bekennen, goed zo!",
+    "Raak! Jij weet hoe de warmte stroomt.",
+    "Lekker bezig, je bent klaar voor de toets!",
+    "Goed! Jouw kennis heeft een hoge warmteweerstand.",
+    "Dat antwoord heeft een perfect ventilatievoud!",
+    "Sterk! Geen nagalm van twijfel.",
+    "Jij maakt van elke vraag een tiny house: compact en goed!",
+    "Bouwfysicus in de dop!",
+    "Correct! Stevig gefundeerd."
+  ],
+  "wrongMsgs": [
+    "Oeps, daar zit een koudebrug in je kennis.",
+    "Bijna! Lees de uitleg en probeer het nog eens.",
+    "Foutje, maar ook een tiny house bouw je niet in één dag.",
+    "Hmm, dat antwoord lekt nog wat warmte.",
+    "Niet getreurd, even luchten en dan weer verder!",
+    "Dat was luchtgeluid, geen kennis. Volgende keer beter!",
+    "Au! Maar met wat extra isolatie lukt het wel.",
+    "Geen paniek, de volgende vraag gaat beter.",
+    "Foutje! Lees de uitleg goed.",
+    "Dat antwoord had een iets te lage kleurtemperatuur.",
+    "Ach, elke fout is een les.",
+    "Nog even oefenen en je hebt het!",
+    "Die zat er net naast. Probeer het opnieuw!",
+    "Geen stress, daar ga je je melatonine niet door verliezen.",
+    "Niet opgeven, de fundering ligt er al!",
+    "Bijna raak! Kijk nog eens naar de uitleg."
+  ],
+  "resultsMsgs": {
+    "perfect": [
+      "Perfecte score! Je bent klaar voor de toets!",
+      "Alles goed! Jij kunt zo een tiny house ontwerpen."
+    ],
+    "great": [
+      "Uitstekend! Je beheerst de bouwfysica.",
+      "Geweldig resultaat! Nog even de puntjes op de i."
+    ],
+    "good": [
+      "Goed bezig! Nog een paar rondes en je zit op een 10!",
+      "Prima score! Focus op de rode vragen."
+    ],
+    "okay": [
+      "Een goede start! Herhaal de zwakke leerdoelen.",
+      "Je bent op weg! Probeer de flashcards voor de moeilijke onderwerpen."
+    ],
+    "low": [
+      "Niet getreurd! Rome is ook niet in een dag gebouwd.",
+      "Dit is je startpunt. Gebruik de flashcards en probeer opnieuw!"
+    ]
+  },
+  "confettiColors": [
+    "#ea580c",
+    "#fb923c",
+    "#f59e0b",
+    "#2563eb",
+    "#22c55e",
+    "#7c3aed"
+  ],
+  "uiStrings": {
+    "correct": "Goed!",
+    "wrong": "Helaas, fout!",
+    "next": "Volgende",
+    "seeResults": "Bekijk resultaten",
+    "stop": "Stoppen",
+    "confirmStop": "Wil je de quiz stoppen? Je voortgang wordt opgeslagen.",
+    "confirmReset": "Weet je zeker dat je alle voortgang wilt wissen? Dit kan niet ongedaan worden.",
+    "noProgress": "Begin met een quiz om je voortgang te zien!",
+    "selectAll": "Selecteer alle juiste antwoorden",
+    "check": "Controleer",
+    "checkOrder": "Controleer volgorde",
+    "typAnswer": "Typ je antwoord...",
+    "correctAnswer": "Juiste antwoord",
+    "correctOrder": "Juiste volgorde",
+    "answer": "Antwoord",
+    "earnedOn": "Verdiend op",
+    "typeLabels": {
+      "multiple_choice": "Meerkeuze",
+      "choose_all_that_apply": "Meerdere antwoorden",
+      "invullen": "Invullen",
+      "volgorde": "Volgorde"
+    }
+  }
+}

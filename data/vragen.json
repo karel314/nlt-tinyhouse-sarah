@@ -1,0 +1,2672 @@
+{
+  "vak": "NLT",
+  "hoofdstuk": "Voel je thuis - H3 Theorie bouwfysica en architectuur",
+  "methode": "NLT-module Voel je thuis (Tiny House), 5 havo",
+  "scope": "H3 (par 3.1-3.5), toetsleerdoelen uit Kennen/kunnen",
+  "totaal_vragen": 164,
+  "leerdoelen": [
+    {
+      "paragraaf": "3.1",
+      "leerdoel_id": 1,
+      "leerdoel_titel": "Ruimte, privacy en veiligheid",
+      "uitleg_tekst": "In de bouwkunde is een ruimte een afgeschermde of begrensde plaats. Een architect let bij het maken van ruimtes op drie onderdelen: de vormgeving, het gebruik en de ervaring. Ruimtes verschillen in privacybehoefte: je kunt ze ordenen van openbaar naar privé op een intimiteitsgradiënt. Een gebouw moet ook veilig zijn: technisch veilig (regels voor trappen, liften, brand) en het moet veilig voelen (overzichtelijk, goed verlicht).",
+      "begrippen": [
+        {
+          "begrip": "ruimte",
+          "definitie": "in de bouwkunde: een afgeschermde of begrensde plaats, gemaakt met bijvoorbeeld muren, vloeren, daken, kolommen, glas of beplanting"
+        },
+        {
+          "begrip": "esthetische kant (vormgeving)",
+          "definitie": "hoe een gebouw eruitziet; hangt af van de stijl van de architect, de tijd, de functie, de plaats en de materialen"
+        },
+        {
+          "begrip": "functie (gebruik)",
+          "definitie": "de activiteiten die in een gebouw moeten plaatsvinden; hangt af van de opdrachtgever"
+        },
+        {
+          "begrip": "sociale interactie",
+          "definitie": "contact tussen mensen in een gebouw; het ontwerp moet dit mogelijk maken"
+        },
+        {
+          "begrip": "ervaring",
+          "definitie": "hoe mensen een gebouw beleven; architectuur wil mensen emotioneel bewegen"
+        },
+        {
+          "begrip": "architectuur",
+          "definitie": "het maken van ruimte om in een behoefte te voorzien (activiteit), mensen bij elkaar te brengen (sociale interactie) en ze emotioneel te bewegen (ervaring)"
+        },
+        {
+          "begrip": "privé",
+          "definitie": "een ruimte met veel behoefte aan privacy"
+        },
+        {
+          "begrip": "openbaar",
+          "definitie": "een ruimte met weinig behoefte aan privacy"
+        },
+        {
+          "begrip": "intimiteitsgradiënt",
+          "definitie": "denkbeeldige lijn waarop je alle ruimtes van een gebouw legt, van openbaar naar privé"
+        },
+        {
+          "begrip": "technische veiligheid",
+          "definitie": "veiligheid volgens regels en eisen, bijvoorbeeld voor trappen, liften, brandveiligheid en materiaalgebruik"
+        },
+        {
+          "begrip": "gevoel van veiligheid",
+          "definitie": "of een gebouw veilig aanvoelt; hangt af van bijvoorbeeld overzichtelijkheid en verlichting"
+        }
+      ],
+      "subdoelen": [
+        {
+          "subdoel_id": "1.1",
+          "subdoel_titel": "Wat ruimte is in de architectuur",
+          "uitleg_tekst": "In het dagelijks leven is er overal ruimte, maar in de bouwkunde betekent ruimte een afgeschermde plaats. Als mensen de omgeving begrenzen, ontstaat er een ruimte. Dat kan met muren, vloeren en daken, maar ook met kolommen, glas, beplanting of zelfs een badlaken op het strand. Mensen willen een begrensde ruimte omdat die bescherming biedt tegen regen, wind en zon.",
+          "vragen": [
+            {
+              "id": 34,
+              "type": "multiple_choice",
+              "vraag": "Hoe wordt het woord 'ruimte' in de bouwkunde gedefinieerd?",
+              "uitleg": "In de bouwkunde is een ruimte een afgeschermde plaats: een stuk van de omgeving dat begrensd is. Je maakt een ruimte door de omgeving af te bakenen, bijvoorbeeld met muren of glas.",
+              "opties": [
+                "Als een afgeschermde of begrensde plaats",
+                "Als het deel van een huis dat openbaar is",
+                "Als de open lucht tussen de gebouwen in een stad",
+                "Als de totale vloeroppervlakte van een gebouw"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 1,
+              "type": "choose_all_that_apply",
+              "vraag": "Waarmee kun je volgens de tekst een ruimte begrenzen?",
+              "opties": [
+                "Een temperatuurverschil",
+                "Glas",
+                "Een geluidsbron",
+                "Muren, vloeren en daken",
+                "Beplanting",
+                "Kolommen"
+              ],
+              "juiste_antwoorden": [
+                1,
+                3,
+                4,
+                5
+              ],
+              "uitleg": "Een ruimte ontstaat door begrenzing. Meestal gebeurt dat met muren, vloeren en daken, maar kolommen, glas en beplanting kunnen ook een ruimte vormen. Geluid of temperatuur begrenzen geen ruimte."
+            },
+            {
+              "id": 35,
+              "type": "multiple_choice",
+              "vraag": "Waarom willen mensen volgens de tekst een begrensde ruimte?",
+              "uitleg": "Mensen hebben, net als veel dieren, nesteldrang. Een begrensde ruimte biedt bescherming tegen klimatologische invloeden zoals regen, wind en zon.",
+              "opties": [
+                "Die maakt sociale interactie onmogelijk",
+                "Die laat meer daglicht binnenvallen",
+                "Die zorgt voor betere ventilatie",
+                "Die beschermt tegen regen, wind en zon"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.2",
+          "subdoel_titel": "Vormgeving, gebruik en ervaring",
+          "uitleg_tekst": "Architecten letten bij het maken van ruimtes op drie onderdelen. De vormgeving (esthetiek) hangt af van de stijl van de architect, de tijd, de functie, de plaats en de materialen. Het gebruik (functie) hangt af van de opdrachtgever: de activiteiten zijn leidend voor het ontwerp, en het gebouw moet sociale interactie mogelijk maken. De ervaring gaat over hoe een gebouw mensen emotioneel raakt. Samen: architectuur is ruimte maken voor een activiteit, om mensen samen te brengen en ze emotioneel te bewegen.",
+          "vragen": [
+            {
+              "id": 2,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke drie onderdelen zijn volgens de tekst belangrijk als een architect een ruimte maakt?",
+              "opties": [
+                "De bouwkosten",
+                "De vormgeving",
+                "De isolatie",
+                "Het gebruik",
+                "De ervaring"
+              ],
+              "juiste_antwoorden": [
+                1,
+                3,
+                4
+              ],
+              "uitleg": "Een architect maakt ruimtes met aandacht voor de vormgeving (esthetiek), het gebruik (functie, activiteiten en sociale interactie) en de ervaring. Isolatie hoort bij de bouwfysica, niet bij deze drie onderdelen."
+            },
+            {
+              "id": 3,
+              "type": "invullen",
+              "vraag": "Vul in: architectuur is het maken van ruimte om in een behoefte te voorzien, om mensen bij elkaar te brengen (sociale ...) en om ze emotioneel te bewegen.",
+              "juiste_antwoord": "interactie",
+              "uitleg": "De definitie uit de tekst: architectuur is ruimte maken (begrenzing) voor een behoefte (activiteit), om mensen bij elkaar te brengen (sociale interactie) en ze emotioneel te bewegen (ervaring)."
+            },
+            {
+              "id": 36,
+              "type": "multiple_choice",
+              "vraag": "In een museum loop je via een donker, kronkelend pad naar binnen. Je krijgt het gevoel dat je een vreemde wereld binnengaat. Bij welk onderdeel van architectuur hoort dit vooral?",
+              "uitleg": "Het gaat hier om wat het gebouw met je gevoel doet. Dat is de ervaring: architectuur wil mensen emotioneel bewegen. Het gebruik gaat over de activiteiten en de esthetiek over hoe het gebouw eruitziet.",
+              "opties": [
+                "De sociale interactie",
+                "De ervaring",
+                "De esthetiek",
+                "Het gebruik"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 37,
+              "type": "multiple_choice",
+              "vraag": "Wie bepaalt volgens de tekst vooral de functie van een gebouw?",
+              "uitleg": "De functie, dus het gebruik, hangt af van de opdrachtgever. De activiteiten die daar moeten plaatsvinden zijn leidend voor het ontwerp van de architect.",
+              "opties": [
+                "De toekomstige bezoekers",
+                "De opdrachtgever",
+                "De architect",
+                "De bouwfysisch adviseur"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 38,
+              "type": "multiple_choice",
+              "vraag": "Een oud kerkgebouw wordt omgebouwd tot bibliotheek. Welk onderdeel van architectuur verandert hier vooral?",
+              "uitleg": "De kerk krijgt een andere functie, dus het gebruik verandert. Volgens de tekst wordt een gebouw met een nieuwe functie vaak van binnen, en soms ook van buiten, verbouwd.",
+              "opties": [
+                "Het gebruik",
+                "De begrenzing",
+                "De esthetiek",
+                "De ervaring"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.3",
+          "subdoel_titel": "Privacy in een gebouw",
+          "uitleg_tekst": "Een ruimte is privé als er veel behoefte aan privacy is en openbaar als er weinig behoefte aan privacy is. De architect brengt daarom scheidingen aan van de straat tot de meest privé vertrekken: een koerier komt tot de hal, vrienden komen in de woonkamer, bewoners komen overal. Gangen scheiden ruimtes die niet op elkaar uit moeten komen, zoals toilet en badkamer. Ook de inrichting kan privacy geven: vitrages, plakfolie, lamellen en jaloezieën. Privacy gaat ook over persoonsgegevens: pasjes en camera's registreren wie waar is geweest, en die data kunnen voor andere doelen gebruikt worden.",
+          "vragen": [
+            {
+              "id": 39,
+              "type": "multiple_choice",
+              "vraag": "Wanneer noem je een ruimte privé?",
+              "uitleg": "Privé en openbaar gaan over de behoefte aan privacy. Een badkamer of slaapkamer is privé (veel behoefte aan privacy), een hal of woonkamer is meer openbaar.",
+              "opties": [
+                "Als er weinig behoefte aan privacy is",
+                "Als de ruimte van één eigenaar is",
+                "Als er veel behoefte aan privacy is",
+                "Als de ruimte geen ramen heeft"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 40,
+              "type": "multiple_choice",
+              "vraag": "Hoe houdt een architect rekening met de privacybehoefte in een woning?",
+              "uitleg": "Van de straat naar de meest privé vertrekken worden scheidingen aangebracht. Zo komt een koerier niet verder dan de hal, en de slaapkamers liggen juist ver van de voordeur.",
+              "opties": [
+                "Hij maakt alle ruimtes even groot zodat niemand voorgaat",
+                "Hij legt de slaapkamers en de badkamer direct naast de voordeur, zodat ze snel bereikbaar zijn",
+                "Hij brengt scheidingen aan van de straat tot de meest privé vertrekken",
+                "Hij gebruikt alleen glazen wanden tussen de ruimtes"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 4,
+              "type": "choose_all_that_apply",
+              "vraag": "Met welke inrichtingselementen kun je volgens de tekst privacy creëren?",
+              "opties": [
+                "Plakfolie",
+                "Lamellen",
+                "Vitrages",
+                "Een vloerkleed",
+                "Een spiegelwand",
+                "Jaloezieën"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                5
+              ],
+              "uitleg": "Privacy kun je ook met de inrichting maken: vitrages, plakfolie, lamellen (verticale stroken) en jaloezieën (horizontale stroken). Die houden de inkijk tegen."
+            },
+            {
+              "id": 41,
+              "type": "multiple_choice",
+              "vraag": "Wat is volgens de tekst de functie van gangen in een woning?",
+              "uitleg": "Gangen scheiden ruimtes die niet op elkaar uit moeten komen, zoals een toilet of badkamer. Zo houdt de architect rekening met de privacybehoefte.",
+              "opties": [
+                "Ze geven bezoekers een plek om te wachten voordat ze de woonkamer in gaan",
+                "Ze voorkomen dat contactgeluid van de ene naar de andere verdieping gaat",
+                "Ze zorgen voor natuurlijke ventilatie door thermische trek in de hele woning",
+                "Ze scheiden ruimtes die niet op elkaar uit moeten komen"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 42,
+              "type": "multiple_choice",
+              "vraag": "Een bedrijf registreert met pasjes en camera's wie het gebouw binnenkomt. Welk privacyrisico noemt de tekst?",
+              "uitleg": "Bij privacy gaat het ook om persoonsgegevens. Bedrijven hebben vaak goede redenen voor registratie (beveiliging, efficiënt energiegebruik), maar de data kunnen ook voor andere doelen gebruikt worden, bijvoorbeeld om te controleren wie er aan het werk is.",
+              "opties": [
+                "De camera's verbruiken zoveel energie dat het gebouw minder duurzaam wordt",
+                "Met pasjes wordt het gebouw minder goed toegankelijk bij een brand",
+                "De data kunnen voor andere doelen worden gebruikt",
+                "Bezoekers zonder pasje kunnen het gebouw niet meer binnenkomen"
+              ],
+              "juiste_antwoord": 2
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.4",
+          "subdoel_titel": "De intimiteitsgradiënt opstellen",
+          "uitleg_tekst": "Je kunt alle ruimtes in een gebouw op een denkbeeldige lijn leggen van openbaar naar privé: de intimiteitsgradiënt. In een woning loopt die van de straat via de hal en de woonkamer naar de slaapkamer en badkamer. In een huis met verdiepingen vormt de trap vanuit de hal een vanzelfsprekende scheiding tussen het publieke deel beneden en het privé deel boven. Je kunt een intimiteitsgradiënt ook opstellen voor een ander gebouw, zoals een vliegveld.",
+          "vragen": [
+            {
+              "id": 43,
+              "type": "multiple_choice",
+              "vraag": "Wat is een intimiteitsgradiënt?",
+              "uitleg": "In de bouwkunde leg je alle ruimtes op een denkbeeldige lijn van openbaar (weinig behoefte aan privacy) naar privé (veel behoefte aan privacy). Die lijn heet de intimiteitsgradiënt.",
+              "opties": [
+                "Een volgorde van alle ruimtes in een gebouw, van groot naar klein",
+                "Een denkbeeldige lijn van openbaar naar privé",
+                "Een lijn die aangeeft hoe warm of koud elke ruimte in een gebouw is",
+                "Een plattegrond van een gebouw met de afmetingen van alle ruimtes"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 5,
+              "type": "volgorde",
+              "vraag": "Zet deze ruimtes op de intimiteitsgradiënt van een woonhuis, van het meest openbaar naar het meest privé.",
+              "opties": {
+                "A": "De slaapkamer",
+                "B": "De woonkamer",
+                "C": "De straat",
+                "D": "De hal"
+              },
+              "juiste_antwoord": "1:C, 2:D, 3:B, 4:A",
+              "uitleg": "De straat is helemaal openbaar. Een koerier komt tot de hal, vrienden komen in de woonkamer en alleen de bewoners komen in de slaapkamer. De slaapkamer is dus het meest privé."
+            },
+            {
+              "id": 6,
+              "type": "volgorde",
+              "vraag": "Je stelt de intimiteitsgradiënt van een vliegveld op. Zet deze ruimtes van het meest openbaar naar het meest privé.",
+              "opties": {
+                "A": "De wachtruimte bij de gate, na de beveiliging",
+                "B": "De vertrekhal met de incheckbalies",
+                "C": "De cockpit van het vliegtuig",
+                "D": "Het parkeerterrein voor de terminal"
+              },
+              "juiste_antwoord": "1:D, 2:B, 3:A, 4:C",
+              "uitleg": "Op het parkeerterrein en in de vertrekhal mag iedereen komen. Na de beveiliging komen alleen reizigers met een instapkaart. De cockpit is alleen voor de piloten en is dus het meest privé."
+            },
+            {
+              "id": 44,
+              "type": "multiple_choice",
+              "vraag": "Een koerier, een vriend en een gezinslid komen bij je thuis. Welke situatie past bij de intimiteitsgradiënt uit de tekst?",
+              "uitleg": "Hoe hoger iemands band met de bewoners, hoe verder die op de intimiteitsgradiënt mag komen. Een koerier komt niet verder dan de hal, vrienden komen in de woonruimte en de bewoners komen overal.",
+              "opties": [
+                "Koerier in de woonkamer, vriend in de hal, gezinslid overal",
+                "Koerier in de hal, vriend in de slaapkamer, gezinslid in de woonkamer",
+                "Koerier, vriend en gezinslid komen allemaal in de woonkamer",
+                "Koerier in de hal, vriend in de woonkamer, gezinslid overal"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 45,
+              "type": "multiple_choice",
+              "vraag": "Waarom bestaat in een woning met meerdere verdiepingen de scheiding tussen publiek en privé al 'vanzelf'?",
+              "uitleg": "De trap vanuit de entreehal is een goede visuele scheiding. Beneden liggen de meer openbare ruimtes, boven de privé ruimtes zoals de badkamer en de slaapkamers.",
+              "opties": [
+                "Geluid van beneden komt niet door de vloer heen",
+                "De trap scheidt het publieke deel van het privé deel",
+                "Boven is het warmer doordat warme lucht stijgt",
+                "Op een hogere verdieping komt minder daglicht binnen"
+              ],
+              "juiste_antwoord": 1
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.5",
+          "subdoel_titel": "Twee soorten veiligheid",
+          "uitleg_tekst": "Veiligheid in een gebouw heeft twee kanten. Technische veiligheid (bouwveiligheid) is vastgelegd in regels en eisen, bijvoorbeeld voor trappen, liften, brandveiligheid en materiaalgebruik. Daarnaast moet een gebouw ook veilig voelen (sociale veiligheid, ook: 'insluiperveilig'). Een gebouw dat technisch helemaal veilig is, voelt niet altijd veilig, denk aan een gevangenis. Onoverzichtelijke plekken geven een onveilig gevoel; goede verlichting verbetert het gevoel van veiligheid.",
+          "vragen": [
+            {
+              "id": 46,
+              "type": "multiple_choice",
+              "vraag": "Op welke twee manieren is veiligheid van belang in een gebouw?",
+              "uitleg": "Een gebouw moet technisch veilig zijn (volgens de regels gebouwd: bouwveilig) en het moet ook veilig voelen voor de gebruiker (bijvoorbeeld insluiperveilig, overzichtelijk en goed verlicht).",
+              "opties": [
+                "Privacy van de bewoners en bescherming van hun persoonsgegevens",
+                "Constructieve en elektrische veiligheid",
+                "Technische veiligheid en het gevoel van veiligheid",
+                "Brandveiligheid en verkeersveiligheid"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 47,
+              "type": "multiple_choice",
+              "vraag": "Een gevangenis is volgens alle regels gebouwd. Wat laat dit voorbeeld zien?",
+              "uitleg": "Technische veiligheid en het gevoel van veiligheid zijn twee verschillende dingen. Een gebouw kan aan alle regels voldoen en toch voelen de gebruikers zich er niet veilig.",
+              "opties": [
+                "Een gebouw met veel regels voelt altijd veilig",
+                "Een gevangenis hoeft niet aan de regels te voldoen",
+                "Een technisch veilig gebouw voelt niet altijd veilig",
+                "Technische veiligheid is in een gebouw belangrijker dan privacy"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 7,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke maatregelen verbeteren vooral het gevoel van veiligheid (en niet de technische veiligheid)?",
+              "opties": [
+                "Traptreden van materiaal dat stroef blijft",
+                "De lift elke 18 maanden laten keuren",
+                "Een trapleuning aan beide zijden van een brede trap",
+                "Overzichtelijke ruimtes waar je ziet wie er is",
+                "Goede verlichting in en rond het gebouw"
+              ],
+              "juiste_antwoorden": [
+                3,
+                4
+              ],
+              "uitleg": "Het gevoel van onveiligheid ontstaat door onoverzichtelijke plekken en slechte verlichting. Stroeve treden, liftkeuringen en trapleuningen zijn technische eisen: die maken het gebouw veilig volgens de regels."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.6",
+          "subdoel_titel": "Veiligheidsmaatregelen bij trappen en liften",
+          "uitleg_tekst": "Voor openbare gebouwen gelden strenge eisen. Trappen moeten zonder obstakels zijn, goed onderhouden worden en treden hebben van materiaal dat stroef blijft. Is een trap smaller dan 1,2 m, dan moet er aan ten minste één zijde een leuning zijn; is de trap breder dan 1,2 m, dan aan beide zijden. Liften hebben een noodtelefoon (noodknop) en moeten wettelijk elke 18 maanden worden gekeurd; een sticker in de lift laat de laatste keuring zien.",
+          "vragen": [
+            {
+              "id": 48,
+              "type": "multiple_choice",
+              "vraag": "Een trap in een openbaar gebouw is 1,5 meter breed. Wat is de eis voor de trapleuning?",
+              "uitleg": "Bij trappen smaller dan 1,2 m is één leuning genoeg. Deze trap is breder dan 1,2 m, dus er moet aan beide zijden een trapleuning zijn.",
+              "opties": [
+                "Geen leuning, als de treden stroef zijn",
+                "Aan beide zijden een leuning",
+                "Een leuning in het midden van de trap",
+                "Aan ten minste één zijde een leuning"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 8,
+              "type": "invullen",
+              "vraag": "Liften moeten wettelijk elke ... maanden gekeurd worden. (Vul een getal in.)",
+              "juiste_antwoord": "18",
+              "uitleg": "Liften moeten in goede staat zijn en elke 18 maanden gekeurd worden. In de lift laat een sticker zien wanneer de laatste keuring was."
+            },
+            {
+              "id": 9,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke eisen worden volgens de tekst aan trappen gesteld?",
+              "opties": [
+                "De trap is vrij van obstakels",
+                "De treden zijn van materiaal dat stroef blijft",
+                "De treden zijn van glas zodat er licht door valt",
+                "Er hangt een noodtelefoon op elke overloop",
+                "De trap wordt goed onderhouden"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                4
+              ],
+              "uitleg": "Trappen moeten veilig zijn: zonder obstakels, goed onderhouden, met stroeve treden en met leuningen. Een noodtelefoon is een eis voor liften, niet voor trappen."
+            },
+            {
+              "id": 49,
+              "type": "multiple_choice",
+              "vraag": "Welke veiligheidsmaatregel hoort bij een lift?",
+              "uitleg": "Liften zijn voorzien van een noodtelefoon (noodknop). Ze worden elke 18 maanden gekeurd, en een sticker in de lift toont de laatste keuring.",
+              "opties": [
+                "Een intimiteitsgradiënt bij de liftknoppen",
+                "Een trapleuning aan beide zijden van de ingang van de lift",
+                "Een vloer van materiaal dat stroef blijft",
+                "Een noodtelefoon en een zichtbare keuringssticker"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.2",
+      "leerdoel_id": 2,
+      "leerdoel_titel": "Licht",
+      "uitleg_tekst": "Licht bepaalt hoe je je voelt in een ruimte. In de bouwfysica let men op drie zaken: functie, vorm en sfeer. Voor beeldschermwerk gelden vier eisen (scherm loodrecht op het raam, 200-400 lux, armaturen zonder zijwaartse uitstraling, luminantieverhouding hooguit factor 3). Met lichtsterkte (lux) en lichtkleur (golflengte) beïnvloed je de sfeer. De kleurtemperatuur (Kelvin) is hoger naarmate de golflengte korter is: dat licht ervaren we als koeler. Licht regelt ook ons dag- en nachtritme: in het donker maakt het lichaam melatonine aan, licht (vooral blauw licht) remt de aanmaak.",
+      "begrippen": [
+        {
+          "begrip": "licht",
+          "definitie": "elektromagnetische straling; zichtbaar licht (ongeveer 400-700 nm) is maar een klein deel van het spectrum"
+        },
+        {
+          "begrip": "functie, vorm en sfeer",
+          "definitie": "de drie zaken waar de bouwfysica op let bij licht in een ruimte"
+        },
+        {
+          "begrip": "lichtinval",
+          "definitie": "het licht dat op een object of ruimte valt; bepaalt de indruk van vorm, kleur en textuur"
+        },
+        {
+          "begrip": "strijklicht",
+          "definitie": "licht dat vanuit één richting langs een oppervlak valt; versterkt het reliëf"
+        },
+        {
+          "begrip": "diffuus licht",
+          "definitie": "licht dat geen duidelijke richting heeft; schaduwen en reliëf verdwijnen"
+        },
+        {
+          "begrip": "lichtsterkte",
+          "definitie": "hoeveelheid licht, uitgedrukt in lux"
+        },
+        {
+          "begrip": "lichtkleur",
+          "definitie": "de kleur van het licht, bepaald door de golflengte"
+        },
+        {
+          "begrip": "kleurtemperatuur",
+          "definitie": "lichtkleur uitgedrukt in kelvin (K); hoe korter de golflengte, hoe hoger de kleurtemperatuur en hoe kouder we het licht ervaren"
+        },
+        {
+          "begrip": "luminantieverhouding",
+          "definitie": "verhouding in lichtsterkte per oppervlakte-eenheid tussen delen van het werkvlak; maximaal een factor 3"
+        },
+        {
+          "begrip": "armatuur",
+          "definitie": "de constructie waarin de eigenlijke lamp zit"
+        },
+        {
+          "begrip": "melatonine",
+          "definitie": "hormoon dat vrijkomt als het donker wordt; laat de lichaamstemperatuur dalen en maakt je slaperig; licht remt de aanmaak"
+        }
+      ],
+      "subdoelen": [
+        {
+          "subdoel_id": "2.1",
+          "subdoel_titel": "Licht en het spectrum",
+          "uitleg_tekst": "Licht is elektromagnetische straling. Het zichtbare licht (golflengtes van ongeveer 400 tot 700 nm) is maar een klein deel van het hele elektromagnetische spectrum; daarnaast zijn er bijvoorbeeld infrarood, ultraviolet en radiogolven. De golflengte bepaalt de kleur van het licht. Let op: dit staat niet uitgebreid in de bundel, maar het staat wel op de lijst van wat je moet kennen.",
+          "vragen": [
+            {
+              "id": 50,
+              "type": "multiple_choice",
+              "vraag": "Wat is licht?",
+              "uitleg": "Licht is elektromagnetische straling. Het zichtbare licht is maar een klein deel van het spectrum. Geluid is wel een trilling van de lucht, maar licht niet. Licht komt ook uit lampen en vuur, niet alleen van de zon.",
+              "opties": [
+                "Een trilling van de lucht, net zoals geluid dat ook is",
+                "Een stroom warme luchtdeeltjes die van een lamp af komt",
+                "Straling die alleen door de zon wordt uitgezonden",
+                "Elektromagnetische straling"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 51,
+              "type": "multiple_choice",
+              "vraag": "Welk bereik kan het menselijk oog waarnemen?",
+              "uitleg": "Zichtbaar licht heeft golflengtes van ongeveer 400 nm (violet/blauw) tot 700 nm (rood). 20 Hz tot 20 kHz is het gehoorbereik voor geluid, kelvin is de eenheid van kleurtemperatuur en 200-400 lux is de eis voor beeldschermwerk.",
+              "opties": [
+                "Lichtsterktes van 200 tot 400 lux",
+                "Golflengtes van ongeveer 400 tot 700 nm",
+                "Frequenties van ongeveer 20 Hz tot 20 kHz",
+                "Kleurtemperaturen van 1900 tot 10.000 K"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 52,
+              "type": "multiple_choice",
+              "vraag": "Wat bepaalt de kleur van licht?",
+              "uitleg": "De lichtkleur wordt bepaald door de golflengte. Blauw licht heeft een kortere golflengte dan rood licht. De lichtsterkte (lux) zegt hoeveel licht er is, niet welke kleur.",
+              "opties": [
+                "De golflengte",
+                "De lichtsterkte in lux",
+                "De afstand tot de lamp",
+                "Het vermogen van de lamp"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.2",
+          "subdoel_titel": "Functies van licht en werken met een beeldscherm",
+          "uitleg_tekst": "In de bouwfysica let men bij licht op drie zaken: functie, vorm en sfeer. Voor lezen op papier is veel licht nodig, maar te veel licht bij een computer vermindert het contrast op het scherm. Bij beeldschermwerk gelden vier eisen: (1) het scherm staat loodrecht op het raam, liefst op ongeveer 3 m afstand; (2) het verlichtingsniveau is 200-400 lux, en buiten de werkplek minstens 2/3 daarvan; (3) armaturen beperken de uitstraling naar de zijkanten, dus indirecte verlichting plus een bureaulamp; (4) de luminantieverhouding op het werkvlak is maximaal een factor 3.",
+          "vragen": [
+            {
+              "id": 10,
+              "type": "choose_all_that_apply",
+              "vraag": "Op welke drie zaken let men in de bouwfysica bij licht in een ruimte?",
+              "opties": [
+                "Functie",
+                "Vorm",
+                "Privacy",
+                "Sfeer",
+                "Warmte"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
+              "uitleg": "In de bouwfysica let men bij licht op functie (wat moet je er kunnen doen), vorm (hoe licht vormen en texturen laat zien) en sfeer (lichtsterkte en lichtkleur)."
+            },
+            {
+              "id": 53,
+              "type": "multiple_choice",
+              "vraag": "Hoe staat een beeldscherm het best ten opzichte van het raam?",
+              "uitleg": "Het scherm staat bij voorkeur loodrecht op het raam, liefst op ongeveer 3 meter afstand. Zo spiegelt het daglicht niet in het scherm en kijk je niet tegen het felle licht in.",
+              "opties": [
+                "Vlak voor het raam, zodat je veel daglicht hebt",
+                "Met de achterkant van het scherm tegen het raam",
+                "Recht tegenover het raam, zodat je naar buiten kijkt",
+                "Loodrecht op het raam, op ongeveer 3 meter afstand"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 54,
+              "type": "multiple_choice",
+              "vraag": "Welk verlichtingsniveau is nodig bij een beeldschermwerkplek?",
+              "uitleg": "Het verlichtingsniveau moet tussen 200 en 400 lux liggen. Kelvin is geen maat voor de hoeveelheid licht, maar voor de kleurtemperatuur.",
+              "opties": [
+                "4000-5500 K",
+                "20-40 lux",
+                "200-400 lux",
+                "2000-4000 lux"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 55,
+              "type": "multiple_choice",
+              "vraag": "Op je werkplek is de lichtsterkte 300 lux. Hoeveel lux moet het buiten de werkplek minstens zijn?",
+              "uitleg": "Buiten de werkplek moet de lichtsterkte ten minste 2/3 zijn van die op de werkplek: 2/3 × 300 = 200 lux. Zo blijft het licht gelijkmatig verdeeld en kun je je goed oriënteren.",
+              "opties": [
+                "450 lux",
+                "200 lux",
+                "150 lux",
+                "100 lux"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 56,
+              "type": "multiple_choice",
+              "vraag": "Waarom is te veel licht bij het werken aan een computer niet goed?",
+              "uitleg": "Te veel licht vermindert het contrast op het scherm en er mag geen weerspiegeling van dag- of kunstlicht in het scherm zijn. Een goede afstemming van licht voorkomt vermoeidheid en oogklachten.",
+              "opties": [
+                "Het verhoogt de aanmaak van melatonine",
+                "Het vermindert het contrast op het scherm",
+                "Het zorgt voor meer contactgeluid",
+                "Het verlaagt de kleurtemperatuur van het scherm"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 11,
+              "type": "invullen",
+              "vraag": "Vul in: de ... (lichtsterkte per oppervlakte-eenheid) van de verschillende delen van het werkvlak mag niet meer dan een factor 3 verschillen.",
+              "juiste_antwoord": "luminantieverhouding",
+              "uitleg": "De luminantieverhouding is de verhouding in lichtsterkte per oppervlakte-eenheid tussen delen van het werkvlak. Als die meer dan een factor 3 verschilt, moeten je ogen zich steeds aanpassen."
+            },
+            {
+              "id": 57,
+              "type": "multiple_choice",
+              "vraag": "Waarom combineer je bij beeldschermwerk indirecte verlichting met een bureaulamp?",
+              "uitleg": "Weerspiegeling van lampen in het scherm moet je voorkomen. Indirecte verlichting (bijvoorbeeld tegen het plafond) geeft geen spiegeling, en een verstelbare bureaulamp geeft licht op de werkplek.",
+              "opties": [
+                "Zo heb je minder lux nodig en bespaar je energie",
+                "Zo maakt je lichaam minder melatonine aan tijdens het werk",
+                "Zo daalt de kleurtemperatuur en wordt de sfeer gezelliger",
+                "Geen spiegeling in het scherm, wel genoeg licht"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.3",
+          "subdoel_titel": "Lichtsterkte, lichtkleur en vorm",
+          "uitleg_tekst": "Licht geeft informatie over vorm, kleur en textuur. Strijklicht (vanuit één richting langs een muur) versterkt het reliëf; diffuus licht (zonder richting) laat schaduwen en reliëf verdwijnen. Met licht kan een ruimte overzichtelijker, groter of toegankelijker lijken. In een kathedraal laten hoge ramen veel licht binnen in een verder donkere ruimte; dat contrast benadrukt de grootsheid. De sfeer hangt af van lichtsterkte (lux) en lichtkleur (golflengte). Winkeliers gebruiken een bepaalde lichtkleur om producten aantrekkelijker te laten lijken. LED-lampen geven veel meer licht met dezelfde hoeveelheid energie.",
+          "vragen": [
+            {
+              "id": 58,
+              "type": "multiple_choice",
+              "vraag": "Je laat licht vanuit één richting langs een gemetselde muur vallen (strijklicht). Wat is het effect?",
+              "uitleg": "Strijklicht geeft een lijnenspel van licht (stenen) en donker (voegen), dus het reliëf wordt sterker. Bij diffuus licht verdwijnen de schaduwen en daarmee het reliëf.",
+              "opties": [
+                "De muur lijkt blauwer door de hogere kleurtemperatuur",
+                "De muur lijkt egaal doordat het licht overal gelijk is",
+                "Het reliëf van stenen en voegen wordt versterkt",
+                "Het reliëf verdwijnt doordat schaduwen wegvallen"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 59,
+              "type": "multiple_choice",
+              "vraag": "Wat is diffuus licht?",
+              "uitleg": "Diffuus licht heeft geen duidelijke richting. Daardoor ontstaan er nauwelijks schaduwen en verdwijnt het reliëf van een oppervlak. Licht uit één richting heet strijklicht.",
+              "opties": [
+                "Licht dat vanuit één richting langs een muur valt",
+                "Licht met een hoge kleurtemperatuur",
+                "Licht met een lichtsterkte boven 400 lux",
+                "Licht dat eigenlijk geen richting heeft"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 60,
+              "type": "multiple_choice",
+              "vraag": "In welke eenheid wordt lichtsterkte uitgedrukt?",
+              "uitleg": "Lichtsterkte wordt uitgedrukt in lux. Kelvin is voor de kleurtemperatuur, decibel voor geluidssterkte en hertz voor frequentie.",
+              "opties": [
+                "Kelvin",
+                "Decibel",
+                "Hertz",
+                "Lux"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 12,
+              "type": "choose_all_that_apply",
+              "vraag": "Wat kun je volgens de tekst bereiken met een goed gebruik van licht in een ruimte?",
+              "opties": [
+                "De ruimte toegankelijker maken",
+                "De ruimte groter laten lijken",
+                "De ruimte overzichtelijker maken",
+                "De ruimte beter isoleren",
+                "De nagalm in de ruimte verminderen"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Door een goed gebruik van licht kan een ruimte overzichtelijker, groter of toegankelijker worden. Isoleren en nagalm verminderen doe je met materialen, niet met licht."
+            },
+            {
+              "id": 61,
+              "type": "multiple_choice",
+              "vraag": "Hoe gebruikt een kathedraal licht om de grootsheid van het gebouw te benadrukken?",
+              "uitleg": "De ramen zitten hoog in de gevel en laten veel daglicht binnen, terwijl de rest van de ruimte vrij donker is. Dat contrast tussen de ramen en de omgeving geeft een indrukwekkend effect.",
+              "opties": [
+                "Lage ramen laten het licht over de vloer strijken",
+                "Hoge ramen geven veel licht in een verder donkere ruimte",
+                "Lampen met een hoge kleurtemperatuur maken de ruimte koel",
+                "Diffuus licht zorgt dat alle muren even licht zijn"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 62,
+              "type": "multiple_choice",
+              "vraag": "Waarom gebruikt een winkelier soms lampen met een speciale lichtkleur bij de groente?",
+              "uitleg": "Winkeliers passen bepaalde lichtkleuren toe om producten er mooi uit te laten zien, bijvoorbeeld om tomaten roder en lekkerder te laten lijken. De lichtkleur bepaalt ook of een winkel gezellig of koel overkomt.",
+              "opties": [
+                "De groente blijft daardoor langer vers",
+                "Tomaten en andere producten lijken dan lekkerder",
+                "Het bespaart energie ten opzichte van gewone lampen",
+                "Klanten maken dan minder melatonine aan"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 63,
+              "type": "multiple_choice",
+              "vraag": "Wat is volgens de tekst het voordeel van een LED-lamp ten opzichte van een gloeilamp?",
+              "uitleg": "Met LED-lampen kun je veel meer licht maken met dezelfde hoeveelheid energie. Waar vroeger een lamp van 100 W nodig was, kost dezelfde lichtsterkte nu ongeveer 5 W.",
+              "opties": [
+                "Een LED-lamp geeft geen blauw licht af",
+                "Een LED-lamp geeft licht zonder richting",
+                "Een LED-lamp heeft altijd een lagere kleurtemperatuur",
+                "Een LED-lamp geeft meer licht met dezelfde energie"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.4",
+          "subdoel_titel": "Kleurtemperatuur",
+          "uitleg_tekst": "De kleurtemperatuur van een lamp wordt uitgedrukt in kelvin (K). Vuistregel: hoe korter de golflengte, hoe hoger de kleurtemperatuur. Licht met een hoge kleurtemperatuur (blauwachtig) ervaren we als koel; licht met een lage kleurtemperatuur (lange golflengte, geelrood) als warm. Dat is tegen je gevoel in: hoge kelvin = koel licht. Voorbeelden: kaarslicht ongeveer 1900 K, gloeilamp ongeveer 2800 K, tl-licht ongeveer 4000 K, daglicht ongeveer 5500 K.",
+          "vragen": [
+            {
+              "id": 64,
+              "type": "multiple_choice",
+              "vraag": "In welke eenheid wordt de kleurtemperatuur van een lamp weergegeven?",
+              "uitleg": "De kleurtemperatuur staat bij elke lamp in de productspecificaties, in kelvin (K). Lux is de lichtsterkte en watt het vermogen.",
+              "opties": [
+                "Kelvin",
+                "Watt",
+                "Lux",
+                "Nanometer"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 65,
+              "type": "multiple_choice",
+              "vraag": "Wat geldt voor licht met een hoge kleurtemperatuur?",
+              "uitleg": "Hoe korter de golflengte, hoe hoger de kleurtemperatuur. Een hoge kleurtemperatuur (blauwachtig licht) ervaren we als koel. Dat voelt tegenstrijdig: hoge kelvin, maar toch een koele indruk.",
+              "opties": [
+                "Lange golflengte, en we ervaren het juist als warm",
+                "Korte golflengte, en we ervaren het als warm",
+                "Korte golflengte, en we ervaren het als koel",
+                "Lange golflengte, en we ervaren het als koel"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 66,
+              "type": "multiple_choice",
+              "vraag": "Je wilt een gezellige, warme sfeer in de woonkamer. Welke lamp kies je?",
+              "uitleg": "Een warme, gezellige sfeer krijg je met een lage kleurtemperatuur (geelachtig licht), zoals een gloeilamp van ongeveer 2800 K. Licht van 4000 K of hoger ervaren we als koel.",
+              "opties": [
+                "Een lamp van 10.000 K",
+                "Een lamp van 4000 K",
+                "Een lamp van 5500 K",
+                "Een lamp van 2700 K"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 13,
+              "type": "volgorde",
+              "vraag": "Zet deze lichtbronnen in volgorde van lage naar hoge kleurtemperatuur.",
+              "opties": {
+                "A": "Daglicht",
+                "B": "Gloeilamp",
+                "C": "Tl-licht",
+                "D": "Kaarslicht"
+              },
+              "juiste_antwoord": "1:D, 2:B, 3:C, 4:A",
+              "uitleg": "Kaarslicht is ongeveer 1900 K, een gloeilamp ongeveer 2800 K, tl-licht ongeveer 4000 K en daglicht ongeveer 5500 K. Hoe hoger de kleurtemperatuur, hoe blauwer en koeler het licht."
+            },
+            {
+              "id": 14,
+              "type": "invullen",
+              "vraag": "Een ruimte met veel blauwachtig licht geeft een koele indruk. Dit licht heeft een ... kleurtemperatuur.",
+              "juiste_antwoord": "hoge",
+              "uitleg": "Blauwachtig licht heeft een korte golflengte en dus een hoge kleurtemperatuur. Dat ervaren we als koel."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.5",
+          "subdoel_titel": "Licht en het dag- en nachtritme",
+          "uitleg_tekst": "Zodra het donker wordt, komt er melatonine vrij. Daardoor weet het lichaam dat het nacht is en gaat het rusten. Als het licht wordt, stopt de melatonineproductie en worden we wakker. Licht remt de aanmaak van melatonine; daarom maak je overdag geen melatonine aan. Goede verlichting in een werkruimte houdt je alert. Een wake-up light gaat in een half uur geleidelijk aan en bootst zo de zonsopkomst na; dat is vooral nuttig in de winter, als het nog donker is als je op moet staan. Ouderen maken minder melatonine aan en slapen daardoor minder.",
+          "vragen": [
+            {
+              "id": 67,
+              "type": "multiple_choice",
+              "vraag": "Wanneer komt er melatonine vrij in je lichaam?",
+              "uitleg": "Melatonine komt vrij zodra het donker wordt. Het lichaam weet dan dat het nacht is en gaat rusten. Als het licht wordt, stopt de productie.",
+              "opties": [
+                "Als je lichaamstemperatuur stijgt",
+                "Zodra je wakker wordt",
+                "Als je in fel licht zit",
+                "Zodra het donker wordt"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 68,
+              "type": "multiple_choice",
+              "vraag": "Waarom maak je overdag geen melatonine aan?",
+              "uitleg": "Licht dat in je ogen komt remt de aanmaak van melatonine. Daarom stopt de productie als het licht wordt en word je wakker.",
+              "opties": [
+                "Je lever breekt overdag alle melatonine af",
+                "Melatonine wordt alleen gemaakt als je slaapt",
+                "Licht remt de aanmaak van melatonine",
+                "Je lichaamstemperatuur is overdag te laag"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 69,
+              "type": "multiple_choice",
+              "vraag": "Waarom is goede verlichting belangrijk in een ruimte waar je overdag werkt?",
+              "uitleg": "Bij te weinig licht zou je lichaam melatonine gaan maken en word je slaperig. Dan kun je je werk niet goed doen. Goede verlichting remt de melatonineproductie.",
+              "opties": [
+                "Licht verhoogt de lichaamstemperatuur, zodat je het niet koud krijgt",
+                "Licht vermindert de luminantie van je scherm",
+                "Licht zorgt voor meer melatonine, zodat je minder gestrest bent",
+                "Licht remt melatonine, zodat je niet slaperig wordt"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 70,
+              "type": "multiple_choice",
+              "vraag": "In welk jaargetijde heb je het meeste aan een wake-up light?",
+              "uitleg": "Een wake-up light gaat in een half uur geleidelijk aan en bootst zo de natuurlijke toename van licht na. Dat is vooral nuttig in de winter, als het nog donker is wanneer je uit bed moet.",
+              "opties": [
+                "In de winter",
+                "In de lente",
+                "Het jaargetijde maakt niet uit",
+                "In de zomer"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 71,
+              "type": "multiple_choice",
+              "vraag": "Waarom slapen ouderen vaak minder?",
+              "uitleg": "Naarmate we ouder worden, produceert het lichaam minder melatonine. Daardoor slapen ouderen minder.",
+              "opties": [
+                "Hun ogen laten meer blauw licht door",
+                "Hun lichaam maakt minder melatonine aan",
+                "Hun lichaamstemperatuur daalt 's nachts sneller",
+                "Ze maken overdag te veel melatonine aan"
+              ],
+              "juiste_antwoord": 1
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.6",
+          "subdoel_titel": "Licht en de hormoonhuishouding",
+          "uitleg_tekst": "Melatonine is een hormoon. Het laat de lichaamstemperatuur dalen; je wordt doezelig en valt in slaap. Het ondersteunt het hart- en bloedvatenstelsel, beschermt tegen vrije radicalen, activeert het immuunsysteem, remt ouderdomsverschijnselen en vermindert stress. Blauw licht (rond 460 nm) remt de aanmaak het sterkst. Daarom kan een scherm vlak voor het slapen je dag- en nachtritme verstoren; een nachtmodus geeft minder fel en minder blauw licht. Licht kan ook bilirubine afbreken: daarom behandelt men gele baby's met blauw licht (fototherapie).",
+          "vragen": [
+            {
+              "id": 72,
+              "type": "multiple_choice",
+              "vraag": "Wat doet melatonine met je lichaam?",
+              "uitleg": "Melatonine laat de lichaamstemperatuur dalen. Daardoor weet het lichaam dat het nacht is: je wordt doezelig en valt in slaap. Het activeert juist het immuunsysteem.",
+              "opties": [
+                "Het breekt bilirubine af, waardoor je huid minder geel wordt",
+                "Het remt je immuunsysteem, zodat je lichaam kan rusten",
+                "Het verlaagt je lichaamstemperatuur en maakt je slaperig",
+                "Het verhoogt je lichaamstemperatuur, waardoor je wakker wordt"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 73,
+              "type": "multiple_choice",
+              "vraag": "Welk licht remt de aanmaak van melatonine het sterkst?",
+              "uitleg": "Blauw licht, met een golflengte rond 460 nm, remt de aanmaak van melatonine het sterkst. Rood en geel licht (lage kleurtemperatuur) remmen veel minder.",
+              "opties": [
+                "Geel licht van een kaars",
+                "Licht met een lage kleurtemperatuur",
+                "Blauw licht van rond 460 nm",
+                "Rood licht van rond 700 nm"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 74,
+              "type": "multiple_choice",
+              "vraag": "Waarom kan het helpen om 's avonds de nachtmodus van je telefoon aan te zetten?",
+              "uitleg": "In nachtmodus geeft het scherm minder fel en minder blauw licht. Blauw licht remt de melatonineaanmaak het sterkst. Zonder nachtmodus komt je melatonine later op gang en slaap je korter.",
+              "opties": [
+                "Het scherm geeft minder blauw licht, dus melatonine wordt minder geremd",
+                "Het scherm gaat uit zodra je melatonine aanmaakt",
+                "Het scherm verhoogt de kleurtemperatuur, waardoor het licht warmer lijkt",
+                "Het scherm geeft meer blauw licht, waardoor je sneller in slaap valt"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 15,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke functies van melatonine noemt de tekst?",
+              "opties": [
+                "Het breekt bilirubine af",
+                "Het ondersteunt het hart- en bloedvatenstelsel",
+                "Het vermindert stress",
+                "Het beschermt tegen vrije radicalen",
+                "Het activeert het immuunsysteem",
+                "Het verhoogt de lichaamstemperatuur"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "uitleg": "Melatonine is belangrijk voor je gezondheid: het ondersteunt hart en bloedvaten, beschermt tegen vrije radicalen, activeert het immuunsysteem, remt ouderdomsverschijnselen en vermindert stress. Het verlaagt de lichaamstemperatuur. Bilirubine wordt afgebroken door licht, niet door melatonine."
+            },
+            {
+              "id": 16,
+              "type": "volgorde",
+              "vraag": "Zet in de juiste volgorde wat er 's avonds in je lichaam gebeurt.",
+              "opties": {
+                "A": "Je wordt doezelig en valt in slaap",
+                "B": "Er komt melatonine vrij",
+                "C": "De lichaamstemperatuur daalt",
+                "D": "Het wordt donker"
+              },
+              "juiste_antwoord": "1:D, 2:B, 3:C, 4:A",
+              "uitleg": "Zodra het donker wordt, komt er melatonine vrij. Melatonine laat de lichaamstemperatuur dalen, waardoor het lichaam weet dat het nacht is. Je wordt doezelig en valt in slaap."
+            },
+            {
+              "id": 75,
+              "type": "multiple_choice",
+              "vraag": "Hoe helpt fototherapie met blauw licht bij een pasgeboren baby die geel ziet?",
+              "uitleg": "Een baby ziet geel doordat de lever de vele bilirubine (afbraakstof van rode bloedcellen) nog niet aankan. Licht kan bilirubine afbreken, zodat het via de urine het lichaam verlaat.",
+              "opties": [
+                "Het licht breekt de bilirubine in het bloed af",
+                "Het licht zorgt dat de baby meer melatonine aanmaakt en beter slaapt",
+                "Het licht verwarmt de baby, zodat de lever sneller volgroeid raakt",
+                "Het licht zorgt dat er minder rode bloedcellen worden afgebroken"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.3",
+      "leerdoel_id": 3,
+      "leerdoel_titel": "Lucht",
+      "uitleg_tekst": "Binnenlucht raakt verontreinigd door mensen (CO2, vocht, geur), bouwmaterialen, meubels en activiteiten zoals koken. Schadelijke stoffen zijn onder andere radon, koolmonoxide, stikstofdioxide, VOS en fijnstof. Ventilatie voert gebruikte lucht af en voert verse lucht aan. Dat kan natuurlijk (onderdruk door wind, thermische trek) of mechanisch (een ventilator die onderdruk of overdruk maakt). Luchten is tijdelijk ramen openzetten en is geen vervanging van ventileren. Infiltratie is luchtverversing via kieren: dat geeft tocht en warmteverlies, dus die ga je tegen met isoleren. Met het ventilatievoud reken je uit hoe vaak per uur de lucht wordt ververst.",
+      "begrippen": [
+        {
+          "begrip": "ventilatie",
+          "definitie": "het afvoeren van gebruikte en verontreinigde lucht en het aanvoeren van verse lucht"
+        },
+        {
+          "begrip": "verontreinigde lucht",
+          "definitie": "lucht die veranderd is van samenstelling en stoffen bevat die er van oorsprong niet in voorkomen, afkomstig van menselijke of natuurlijke bronnen"
+        },
+        {
+          "begrip": "condensatie",
+          "definitie": "waterdamp uit de lucht die neerslaat op koude delen van het gebouw; kan leiden tot schimmel"
+        },
+        {
+          "begrip": "onderdruk",
+          "definitie": "in een ruimte heerst een lagere luchtdruk dan buiten; daardoor wordt verse lucht aangezogen"
+        },
+        {
+          "begrip": "overdruk",
+          "definitie": "in een ruimte heerst een hogere luchtdruk dan buiten; vervuilde lucht wordt naar buiten geblazen"
+        },
+        {
+          "begrip": "thermische trek",
+          "definitie": "luchtbeweging doordat warme lucht stijgt, bijvoorbeeld in een schoorsteen"
+        },
+        {
+          "begrip": "natuurlijke ventilatie",
+          "definitie": "ventileren zonder apparaat: via ramen en roosters, met onderdruk door wind of thermische trek"
+        },
+        {
+          "begrip": "mechanische ventilatie",
+          "definitie": "ventileren met een ventilator die onderdruk (afzuigen) of overdruk (inblazen) maakt"
+        },
+        {
+          "begrip": "luchten",
+          "definitie": "een tijdje ramen en deuren openzetten om de aanwezige lucht te verversen; geen alternatief voor continue ventilatie"
+        },
+        {
+          "begrip": "infiltratie",
+          "definitie": "luchtverversing via spleten en kieren in muren, dak, ramen en deuren; geeft tocht en extra warmteverlies"
+        },
+        {
+          "begrip": "ventilatievoud",
+          "definitie": "het aantal keer per uur dat de lucht in een ruimte volledig wordt ververst; ingeblazen verse lucht (m³/uur) gedeeld door de inhoud van de ruimte (m³)"
+        }
+      ],
+      "subdoelen": [
+        {
+          "subdoel_id": "3.1",
+          "subdoel_titel": "Het belang van ventilatie",
+          "uitleg_tekst": "Ventilatie is het afvoeren van gebruikte en verontreinigde lucht en het aanvoeren van verse lucht. De buitenlucht is, ondanks de vervuiling, meestal veel schoner dan de lucht in huis. Binnen hopen stoffen uit mensen, bouwmaterialen, meubels en activiteiten zich op. Ventileren is het belangrijkste wat je kunt doen tegen schadelijke stoffen in huis. Omdat we woningen steeds beter isoleren, wordt goed ventileren steeds belangrijker.",
+          "vragen": [
+            {
+              "id": 76,
+              "type": "multiple_choice",
+              "vraag": "Wat is ventilatie?",
+              "uitleg": "Ventilatie is het afvoeren van gebruikte en verontreinigde lucht en die vervangen door verse lucht. Even ramen openzetten heet luchten, en lucht via kieren heet infiltratie.",
+              "opties": [
+                "Een tijdje ramen en deuren openzetten na het koken",
+                "Lucht die via kieren en spleten naar binnen komt",
+                "Gebruikte lucht afvoeren en verse lucht aanvoeren",
+                "Lucht verwarmen zodat die gaat stijgen"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 77,
+              "type": "multiple_choice",
+              "vraag": "Hoe kan de lucht in huis meer verontreinigd zijn dan de buitenlucht, zelfs met uitlaatgassen meegerekend?",
+              "uitleg": "Mensen, bouwmaterialen, meubels en activiteiten als koken geven steeds stoffen af. Zonder goede ventilatie hopen die zich op, zodat de concentratie binnen hoger wordt dan buiten.",
+              "opties": [
+                "Verontreinigde lucht van buiten blijft binnen hangen",
+                "Stoffen van binnen hopen zich op",
+                "Binnenlucht bevat minder zuurstof doordat isolatie zuurstof opneemt",
+                "Buitenlucht bevat helemaal geen stikstofdioxide of fijnstof"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 78,
+              "type": "multiple_choice",
+              "vraag": "Wat is volgens de tekst het allerbelangrijkste om te doen tegen schadelijke stoffen in huis?",
+              "uitleg": "Volgens Milieu Centraal is ventileren echt het allerbelangrijkste: zet de roosters altijd open en ventileer zo vaak als je kan. Meetapparatuur meet de stoffen alleen, en isoleren zonder ventileren maakt het juist erger.",
+              "opties": [
+                "Alleen 's ochtends een kwartier de ramen openzetten",
+                "Meetapparatuur ophangen die de stoffen afbreekt",
+                "Ventileren, met de roosters altijd open",
+                "De woning nog beter isoleren zodat er niets binnenkomt"
+              ],
+              "juiste_antwoord": 2
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.2",
+          "subdoel_titel": "Verontreinigde lucht",
+          "uitleg_tekst": "Verontreinigde lucht is lucht die veranderd is van samenstelling en stoffen bevat die er van oorsprong niet in voorkomen, uit menselijke of natuurlijke bronnen. Droge lucht bestaat vooral uit stikstof (78%) en zuurstof (21%). Mensen halen zuurstof uit de lucht en geven koolstofdioxide, vocht en geurstoffen af. Schadelijke stoffen in huis: radon en thoron (uit de bodem en stenen bouwmaterialen; na roken de tweede oorzaak van longkanker), koolmonoxide (reukloos, door onvolledige verbranding), stikstofdioxide (uit open gastoestellen), VOS (uit verf, nieuwe vloerbedekking en meubels) en fijnstof (roken, houtkachel). Waterdamp kan condenseren op koude delen en leiden tot schimmel.",
+          "vragen": [
+            {
+              "id": 79,
+              "type": "multiple_choice",
+              "vraag": "Wat is verontreinigde lucht?",
+              "uitleg": "Verontreinigde lucht is lucht die veranderd is van samenstelling en stoffen bevat die er van oorsprong niet in voorkomen. Die stoffen komen van menselijke of natuurlijke bronnen.",
+              "opties": [
+                "Lucht met stoffen die er van oorsprong niet in voorkomen",
+                "Lucht die door een ventilator is ingeblazen",
+                "Lucht die via kieren en spleten in de muren naar binnen komt",
+                "Lucht met meer dan 21% zuurstof"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 80,
+              "type": "multiple_choice",
+              "vraag": "Welke stof is reukloos en ontstaat bij onvolledige verbranding, bijvoorbeeld in een geiser?",
+              "uitleg": "Koolmonoxide ontstaat bij onvolledige verbranding en is reukloos, dus je merkt het niet. Een lage concentratie geeft hoofdpijn en duizeligheid, een hoge kan dodelijk zijn.",
+              "opties": [
+                "Koolmonoxide (CO)",
+                "Stikstofdioxide (NO2)",
+                "Radon",
+                "Vluchtige organische stoffen (VOS)"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 81,
+              "type": "multiple_choice",
+              "vraag": "Hoe komt radon in de lucht van je huis?",
+              "uitleg": "Radon en thoron zitten van nature in de bodem en in stenen bouwmaterialen. Verf en vloerbedekking geven VOS af, gasfornuizen stikstofdioxide en een houtkachel fijnstof.",
+              "opties": [
+                "Uit de bodem en uit stenen bouwmaterialen",
+                "Uit gasfornuizen zonder afvoer naar buiten",
+                "Uit een open houtkachel of haard",
+                "Uit verf en nieuwe vloerbedekking"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 17,
+              "type": "invullen",
+              "vraag": "Na roken is radon de tweede oorzaak van ...",
+              "juiste_antwoord": "longkanker",
+              "uitleg": "Radon is een radioactief gas. Na roken is het de tweede oorzaak van longkanker. Daarom is ventileren zo belangrijk."
+            },
+            {
+              "id": 82,
+              "type": "multiple_choice",
+              "vraag": "Waaruit komen vluchtige organische stoffen (VOS) in huis vooral vrij?",
+              "uitleg": "VOS (oplosmiddelen) komen vrij uit onder andere verf, nieuwe vloerbedekking, nieuwe gordijnen en meubels. Ze kunnen hoofdpijn, vermoeidheid en irritatie van slijmvliezen geven.",
+              "opties": [
+                "Uit de bodem onder het huis",
+                "Uit open gastoestellen zonder afvoer",
+                "Uit de adem en het zweet van de bewoners in huis",
+                "Uit verf, nieuwe vloerbedekking en meubels"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 18,
+              "type": "choose_all_that_apply",
+              "vraag": "Wat geven mensen af aan de lucht in een ruimte?",
+              "opties": [
+                "Vocht",
+                "Koolstofdioxide",
+                "Geurstoffen",
+                "Radon",
+                "Zuurstof"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Mensen halen zuurstof uit de lucht en geven koolstofdioxide, vocht en geurstoffen (transpiratie) af. Daardoor gaat een slecht geventileerd klaslokaal muf ruiken."
+            },
+            {
+              "id": 83,
+              "type": "multiple_choice",
+              "vraag": "Welk gas vormt het grootste deel van droge lucht?",
+              "uitleg": "Droge lucht bestaat voor ongeveer 78% uit stikstof en 21% uit zuurstof. Argon is bijna 1% en koolstofdioxide maar ongeveer 0,03%.",
+              "opties": [
+                "Stikstof, ongeveer 78%",
+                "Zuurstof, ongeveer 21%",
+                "Koolstofdioxide, ongeveer 1%",
+                "Zuurstof, ongeveer 78%"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 19,
+              "type": "invullen",
+              "vraag": "Waterdamp in de lucht slaat neer op koude wanden en vloeren. Hoe heet dit verschijnsel?",
+              "juiste_antwoord": "condensatie",
+              "uitleg": "Bij condensatie slaat waterdamp neer op koude delen van het gebouw. Het vocht op wanden en vloeren kan leiden tot schimmelgroei, bijvoorbeeld in de badkamer."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.3",
+          "subdoel_titel": "Natuurlijke en mechanische ventilatie",
+          "uitleg_tekst": "Natuurlijke ventilatie werkt zonder apparaat, via ramen en roosters. Er zijn twee manieren: onderdruk door de wind (bijvoorbeeld een windgedreven ventilator, een 'gek', bovenop de schoorsteen) of thermische trek (warme lucht stijgt op in de schoorsteen en zuigt lucht uit de kamer mee). Voordeel: kost geen energie. Nadeel: je bent afhankelijk van wind en temperatuur en kunt het niet goed regelen. Bij mechanische ventilatie maakt een ventilator op stroom onderdruk (afzuigen) of overdruk (inblazen). In goed geïsoleerde gebouwen is vaak mechanische ventilatie nodig. Een cleanroom gebruikt overdruk met gefilterde lucht: bij onderdruk zou ongefilterde lucht via kieren binnenkomen.",
+          "vragen": [
+            {
+              "id": 84,
+              "type": "multiple_choice",
+              "vraag": "Op welke twee manieren werkt natuurlijke ventilatie?",
+              "uitleg": "Bij natuurlijke ventilatie heb je geen apparaat nodig. Je gebruikt de wind om onderdruk te maken, of thermische trek: warme lucht stijgt en neemt lucht mee naar boven.",
+              "opties": [
+                "Met onderdruk en met overdruk van een ventilator",
+                "Met onderdruk door de wind en met thermische trek",
+                "Met condensatie en met verdamping van water",
+                "Met luchten en met infiltratie via kieren"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 85,
+              "type": "multiple_choice",
+              "vraag": "Hoe werkt thermische trek in de schoorsteen van een kachel?",
+              "uitleg": "Doordat warme lucht stijgt, gaat de lucht uit de kachel via de schoorsteen naar boven. Die lucht zuigt lucht uit de kamer mee, en verse lucht van buiten wordt aangezogen.",
+              "opties": [
+                "Warme lucht stijgt op en zuigt lucht uit de kamer mee",
+                "Koude lucht zakt door de schoorsteen naar de kachel",
+                "De wind blaast verse lucht door de schoorsteen naar binnen",
+                "Een ventilator blaast warme lucht de schoorsteen in"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 86,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent onderdruk in een ruimte?",
+              "uitleg": "Onderdruk wil zeggen dat in de ruimte een lagere luchtdruk heerst dan buiten. Daardoor wordt verse lucht van buiten aangezogen. Bij overdruk is de druk binnen juist hoger.",
+              "opties": [
+                "De lucht binnen bevat minder zuurstof dan buiten",
+                "De temperatuur binnen is lager dan buiten",
+                "Binnen heerst een lagere luchtdruk dan buiten",
+                "Binnen heerst een hogere luchtdruk dan buiten"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 87,
+              "type": "multiple_choice",
+              "vraag": "Wat doet een windgedreven ventilator (een 'gek') bovenop een schoorsteen?",
+              "uitleg": "De gek wordt door de wind aangedreven en neemt lucht weg uit de bovenkant van de schoorsteen. Daar ontstaat een lagere druk dan onderin, zodat de lucht naar boven wordt gezogen. Het is natuurlijke ventilatie: er is geen stroom nodig.",
+              "opties": [
+                "Hij sluit de schoorsteen af als het hard waait",
+                "Hij maakt bovenin een lagere druk, zodat lucht omhoog gaat",
+                "Hij verwarmt de lucht in de schoorsteen zodat die gaat stijgen",
+                "Hij blaast met een elektromotor verse lucht de woning in"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 88,
+              "type": "multiple_choice",
+              "vraag": "Wat is een voordeel en een nadeel van natuurlijke ventilatie?",
+              "uitleg": "Natuurlijke ventilatie gebruikt geen apparaat, dus geen energie: goedkoper en beter voor het milieu. Maar je bent afhankelijk van de wind en het temperatuurverschil, dus je kunt de ventilatie niet goed regelen.",
+              "opties": [
+                "Voordeel: kost geen energie. Nadeel: niet goed te regelen",
+                "Voordeel: werkt het best in goed geïsoleerde huizen. Nadeel: duur",
+                "Voordeel: goed te regelen. Nadeel: kost veel energie",
+                "Voordeel: filtert stof uit de lucht. Nadeel: maakt veel lawaai"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 89,
+              "type": "multiple_choice",
+              "vraag": "Waarom is in een goed geïsoleerd gebouw vaak mechanische ventilatie nodig?",
+              "uitleg": "In slecht geïsoleerde gebouwen is er altijd wat natuurlijke ventilatie. In goed geïsoleerde gebouwen gebeurt dat niet vanzelf; roosters met keerkleppen zijn vaak niet genoeg, dus wordt er mechanische ventilatie aangebracht.",
+              "opties": [
+                "Mechanische ventilatie kost minder energie dan natuurlijke",
+                "Natuurlijke ventilatie is in Nederland verboden",
+                "Er komt vanzelf bijna geen verse lucht meer binnen",
+                "Isolatiemateriaal geeft schadelijke stoffen af"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 90,
+              "type": "multiple_choice",
+              "vraag": "Een cleanroom voor computerchips heeft overdruk met gefilterde lucht. Werkt het ook als je de ventilator omdraait, zodat hij lucht afzuigt?",
+              "uitleg": "Bij afzuigen ontstaat onderdruk. Dan wordt lucht van buiten aangezogen via alle kieren en spleten, en die lucht gaat niet door het filter. Bij overdruk gaat de lucht juist via kieren naar buiten, dus stof komt niet binnen.",
+              "opties": [
+                "Ja, bij onderdruk komt er helemaal geen lucht meer binnen",
+                "Nee, door onderdruk komt ongefilterde lucht via kieren binnen",
+                "Nee, bij onderdruk wordt de lucht in de ruimte te warm",
+                "Ja, want de lucht gaat dan nog steeds eerst door het filter heen"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 91,
+              "type": "multiple_choice",
+              "vraag": "Waarom mag je een ruimte met een brandende kachel niet helemaal luchtdicht afsluiten?",
+              "uitleg": "De lucht uit de kachel stijgt via de schoorsteen op en zuigt lucht uit de kamer mee. Daarvoor moet er nieuwe, verse lucht van buiten kunnen binnenkomen. Anders werkt de trek niet goed.",
+              "opties": [
+                "Een kachel werkt alleen bij overdruk in de ruimte",
+                "Anders ontstaat er te veel condensatie op de ramen",
+                "Anders stijgt de warme lucht niet meer op",
+                "Voor de trek moet verse lucht binnen kunnen komen"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.4",
+          "subdoel_titel": "Luchten is iets anders dan ventileren",
+          "uitleg_tekst": "Luchten is een tijdje ramen en deuren openzetten om de aanwezige lucht te verversen. Dat is een goede dagelijkse gewoonte, zeker na koken of douchen. Maar het effect is binnen enkele uren weg, en het geeft vaak een ongewenste verandering van de temperatuur. Luchten is daarom geen alternatief voor continue ventilatie.",
+          "vragen": [
+            {
+              "id": 92,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen luchten en ventileren?",
+              "uitleg": "Bij luchten zet je de deuren en ramen een tijdje open. Ventileren is continu gebruikte lucht afvoeren en verse lucht aanvoeren. Lucht via kieren heet infiltratie.",
+              "opties": [
+                "Luchten gaat via kieren en spleten, ventileren gaat via roosters in de ramen",
+                "Luchten is tijdelijk ramen openzetten, ventileren gebeurt continu",
+                "Luchten gebeurt met een ventilator, ventileren met open ramen",
+                "Er is geen verschil: het zijn twee woorden voor hetzelfde"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 93,
+              "type": "multiple_choice",
+              "vraag": "Waarom is luchten volgens de tekst geen alternatief voor ventileren?",
+              "uitleg": "Luchten ververst de aanwezige lucht wel, maar binnen enkele uren is het effect verdwenen. Bovendien wordt het in de ruimte vaak ongewenst kouder of warmer.",
+              "opties": [
+                "Luchten is alleen toegestaan in keuken, badkamer en wc",
+                "Het effect is na enkele uren weg en de temperatuur verandert",
+                "Luchten zorgt voor onderdruk, waardoor schimmel ontstaat",
+                "Luchten laat alleen verontreinigde lucht binnen"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 94,
+              "type": "multiple_choice",
+              "vraag": "Na het douchen zet je tien minuten het badkamerraam wijd open. Hoe heet dit?",
+              "uitleg": "Even de ramen openzetten om de aanwezige lucht te verversen is luchten. Dat is een goede gewoonte na douchen of koken, maar de badkamer moet daarnaast continu geventileerd worden.",
+              "opties": [
+                "Infiltratie",
+                "Thermische trek",
+                "Luchten",
+                "Ventileren"
+              ],
+              "juiste_antwoord": 2
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.5",
+          "subdoel_titel": "Infiltratie tegengaan met isoleren",
+          "uitleg_tekst": "Lucht kan ontsnappen en binnenkomen via spleten in muren, dak, ramen en deuren die niet goed sluiten. Dit heet infiltratie. Het ververst de lucht wel, maar er gaat meer warmte verloren dan bij echte ventilatie; je merkt het als tocht. Oude huizen hebben veel last van infiltratie en zijn moeilijker te isoleren, omdat de oude constructies meer spleten hebben. Daarom is het belangrijk infiltratie tegen te gaan met isoleren, en dan wel bewust te ventileren.",
+          "vragen": [
+            {
+              "id": 20,
+              "type": "invullen",
+              "vraag": "Lucht die via spleten en kieren in muren, dak, ramen en deuren ontsnapt of binnenkomt, heet ...",
+              "juiste_antwoord": "infiltratie",
+              "uitleg": "Dit heet infiltratie. Het ververst de lucht wel, maar er gaat veel warmte verloren. Je merkt infiltratie als tocht."
+            },
+            {
+              "id": 95,
+              "type": "multiple_choice",
+              "vraag": "Waarom wil je infiltratie tegengaan?",
+              "uitleg": "Infiltratie ververst de lucht weliswaar, maar je verliest er meer warmte mee dan bij echte ventilatiemethoden. Je ervaart het als tocht. Met isoleren ga je het tegen.",
+              "opties": [
+                "Het zorgt voor overdruk, waardoor ramen kapot kunnen gaan",
+                "Het geeft tocht en meer warmteverlies dan echte ventilatie",
+                "Het verhoogt de concentratie radon in de bodem",
+                "Er komt helemaal geen verse lucht binnen via kieren"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 96,
+              "type": "multiple_choice",
+              "vraag": "Waarom hebben oude huizen vaak veel last van infiltratie?",
+              "uitleg": "De oude constructies hebben vaak meer spleten. Daardoor is er veel infiltratie en zijn deze huizen moeilijker te isoleren.",
+              "opties": [
+                "Oude huizen hebben geen ramen die open kunnen",
+                "Oude constructies hebben meer spleten",
+                "In oude huizen zit meer radon in de bouwmaterialen",
+                "Oude huizen hebben altijd mechanische ventilatie"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 97,
+              "type": "multiple_choice",
+              "vraag": "Je laat alle kieren in een oud huis dichten. Wat moet je daarna ook regelen?",
+              "uitleg": "Isoleren en kieren dichten vermindert het warmteverlies. Maar dan komt er ook geen verse lucht meer vanzelf binnen, en hopen schadelijke stoffen en vocht zich op. Meer isoleren vraagt dus om meer ventilatie.",
+              "opties": [
+                "Meer infiltratie, zodat het huis niet te warm wordt",
+                "Een lagere kleurtemperatuur, zodat het huis gezelliger wordt",
+                "Niets, want dichte kieren maken de lucht vanzelf schoner",
+                "Goede ventilatie, want verse lucht komt niet meer vanzelf"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.6",
+          "subdoel_titel": "Rekenen met het ventilatievoud",
+          "uitleg_tekst": "Het ventilatievoud is het aantal keer per uur dat de lucht in een ruimte helemaal wordt ververst. Een ventilatievoud van 2 betekent dat de lucht 2 keer per uur volledig wordt vervangen. Formule: ventilatievoud = ingeblazen verse lucht [m³/uur] / inhoud van de ruimte [m³]. De eenheid is 1/uur (per uur). De inhoud bereken je met lengte × breedte × hoogte. Een keuken moet vaker geventileerd worden dan een slaapkamer.",
+          "vragen": [
+            {
+              "id": 98,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent een ventilatievoud van 2?",
+              "uitleg": "Het ventilatievoud is het aantal keer per uur dat het totale volume aan lucht in een ruimte helemaal wordt vervangen door verse lucht. Bij ventilatievoud 2 gebeurt dat 2 keer per uur.",
+              "opties": [
+                "Er komt 2 keer zoveel lucht binnen als via infiltratie",
+                "De lucht wordt 2 keer per uur volledig ververst",
+                "De lucht wordt elke 2 uur één keer ververst",
+                "Er wordt 2 m³ lucht per uur ververst"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 99,
+              "type": "multiple_choice",
+              "vraag": "Wat is de formule voor het ventilatievoud?",
+              "uitleg": "Ventilatievoud = ingeblazen verse lucht [m³/uur] / inhoud van de ruimte [m³]. De m³ vallen tegen elkaar weg, dus de eenheid is 1/uur.",
+              "opties": [
+                "Ingeblazen verse lucht (m³/uur) ÷ inhoud van de ruimte (m³)",
+                "Ingeblazen verse lucht (m³/uur) × inhoud van de ruimte (m³)",
+                "Inhoud van de ruimte (m³) ÷ ingeblazen verse lucht (m³/uur)",
+                "Lengte × breedte × hoogte van de ruimte (m³)"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 100,
+              "type": "multiple_choice",
+              "vraag": "Wat is de eenheid van het ventilatievoud?",
+              "uitleg": "Je deelt m³/uur door m³. De m³ vallen weg en je houdt 1/uur over: het aantal keer per uur.",
+              "opties": [
+                "1/uur (per uur)",
+                "m³/uur",
+                "m³",
+                "uur"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 101,
+              "type": "multiple_choice",
+              "vraag": "Een slaapkamer is 4,0 m lang, 3,5 m breed en 2,4 m hoog. Het ventilatievoud moet 2 zijn. Hoeveel verse lucht moet de ventilator per uur inblazen?",
+              "uitleg": "Inhoud = 4,0 × 3,5 × 2,4 = 33,6 m³. Ingeblazen lucht = ventilatievoud × inhoud = 2 × 33,6 = 67,2 m³/uur. 33,6 is alleen de inhoud, en bij 56,0 is de hoogte vergeten (4,0 × 3,5 × 2 × 2).",
+              "opties": [
+                "16,8 m³/uur",
+                "67,2 m³/uur",
+                "33,6 m³/uur",
+                "56,0 m³/uur"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 102,
+              "type": "multiple_choice",
+              "vraag": "Een klaslokaal is 8 m lang, 7 m breed en 3 m hoog. De ventilatie blaast 840 m³ verse lucht per uur in. Wat is het ventilatievoud?",
+              "uitleg": "Inhoud = 8 × 7 × 3 = 168 m³. Ventilatievoud = 840 / 168 = 5 per uur. Bij 0,2 is de breuk omgedraaid, en bij 15 is de hoogte vergeten (840 / 56).",
+              "opties": [
+                "0,2 per uur",
+                "168 per uur",
+                "5 per uur",
+                "15 per uur"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 103,
+              "type": "multiple_choice",
+              "vraag": "Een keuken is 3,0 m lang, 2,5 m breed en 2,4 m hoog en moet een ventilatievoud van 10 hebben. Welke capaciteit heeft de ventilator minstens nodig?",
+              "uitleg": "Inhoud = 3,0 × 2,5 × 2,4 = 18 m³. Nodig = 10 × 18 = 180 m³/uur. Bij 75 is de hoogte vergeten (3,0 × 2,5 × 10).",
+              "opties": [
+                "180 m³/uur",
+                "1,8 m³/uur",
+                "75 m³/uur",
+                "18 m³/uur"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 104,
+              "type": "multiple_choice",
+              "vraag": "Waarom moet een keuken een hoger ventilatievoud hebben dan een slaapkamer?",
+              "uitleg": "In de keuken komen door het koken veel vocht, geur en vervuilende gassen per tijdseenheid vrij. Daarom moet de lucht daar veel vaker worden ververst dan in een slaapkamer.",
+              "opties": [
+                "In een keuken is er meer infiltratie via kieren",
+                "In een slaapkamer is luchten voldoende",
+                "Een keuken heeft altijd een grotere inhoud dan een slaapkamer",
+                "Bij koken komt per uur veel meer vocht en vervuiling vrij"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.4",
+      "leerdoel_id": 4,
+      "leerdoel_titel": "Geluid",
+      "uitleg_tekst": "Geluidsoverlast is subjectief, maar de bouwfysicus rekent met objectieve, meetbare waarden zoals de decibel. Geluid is een trilling van de lucht, weergegeven als golf met de tijd op de x-as en de geluidsdruk op de y-as. De frequentie (f = 1/T) bepaalt de toonhoogte, de amplitude bepaalt de geluidssterkte. De decibelschaal is logaritmisch: +10 dB is 10 keer zo sterk. Geluid neemt af door demping (afstand: −6 dB per verdubbeling) en absorptie (materiaal zet geluid om in warmte). In een woning onderscheid je luchtgeluid, contactgeluid en nagalm.",
+      "begrippen": [
+        {
+          "begrip": "geluidsoverlast",
+          "definitie": "geluid dat als hinderlijk wordt ervaren; een subjectieve ervaring die per persoon verschilt"
+        },
+        {
+          "begrip": "subjectief",
+          "definitie": "afhankelijk van de beleving van een persoon"
+        },
+        {
+          "begrip": "objectief",
+          "definitie": "gebaseerd op meetbare waarden, zoals het aantal decibel"
+        },
+        {
+          "begrip": "geluid",
+          "definitie": "een trilling van de lucht"
+        },
+        {
+          "begrip": "trillingstijd (T)",
+          "definitie": "de tijd die nodig is voor één trilling, in seconden"
+        },
+        {
+          "begrip": "frequentie (f)",
+          "definitie": "het aantal trillingen per seconde, in hertz (Hz); f = 1/T; bepaalt de toonhoogte"
+        },
+        {
+          "begrip": "toonhoogte",
+          "definitie": "hoe hoog of laag een geluid klinkt; hoe hoger de frequentie, hoe hoger de toon"
+        },
+        {
+          "begrip": "amplitude",
+          "definitie": "de hoogte van de golf ten opzichte van de evenwichtsstand (de horizontale middenlijn); bepaalt de geluidssterkte"
+        },
+        {
+          "begrip": "decibel (dB)",
+          "definitie": "maat voor de geluidssterkte; de schaal is logaritmisch: +10 dB = 10 keer zo sterk"
+        },
+        {
+          "begrip": "dB(A)",
+          "definitie": "geluidssterkte gecorrigeerd voor de gevoeligheid van het menselijk oor voor verschillende frequenties"
+        },
+        {
+          "begrip": "demping",
+          "definitie": "afname van de geluidssterkte doordat het geluid zich over steeds meer deeltjes verspreidt; −6 dB per verdubbeling van de afstand"
+        },
+        {
+          "begrip": "absorptie",
+          "definitie": "afname van geluid doordat een materiaal het geluid omzet in warmte"
+        },
+        {
+          "begrip": "luchtgeluid",
+          "definitie": "geluid dat rechtstreeks van een bron door de lucht komt en muren, vloeren en plafonds in trilling brengt"
+        },
+        {
+          "begrip": "contactgeluid",
+          "definitie": "geluid dat ontstaat als een bron direct contact maakt met een vloer, wand of plafond"
+        },
+        {
+          "begrip": "nagalm",
+          "definitie": "geluid dat door muren en vloeren wordt weerkaatst en opnieuw de ruimte in komt"
+        },
+        {
+          "begrip": "massa-veer-principe",
+          "definitie": "geluidsisolatie met een verende laag (lucht of geluidswerend materiaal) tussen twee massa's"
+        }
+      ],
+      "subdoelen": [
+        {
+          "subdoel_id": "4.1",
+          "subdoel_titel": "Wanneer geluid overlast is",
+          "uitleg_tekst": "Hetzelfde geluid wordt niet door iedereen hetzelfde ervaren. Of geluid hinderlijk is, hangt af van de persoon, de stemming en het moment van de dag. Geluidsoverlast is dus subjectief. Het kan wel grote gevolgen hebben voor de gezondheid: harde of langdurige geluiden geven gehoorschade of doofheid, hinderlijk geluid geeft slapeloosheid en irritatie. Regelmatige hinder geeft stress, langdurige stress verhoogt de bloeddruk en dat kan leiden tot hart- en vaatproblemen.",
+          "vragen": [
+            {
+              "id": 105,
+              "type": "multiple_choice",
+              "vraag": "Waarom is moeilijk te zeggen wanneer er sprake is van geluidsoverlast?",
+              "uitleg": "Hoe je geluid ervaart, verschilt per persoon en hangt af van bijvoorbeeld je stemming of het moment van de dag. Geluidsoverlast is dus een subjectieve ervaring.",
+              "opties": [
+                "Geluidsoverlast kun je alleen 's nachts meten",
+                "Geluid boven 54 dB is altijd overlast, daaronder nooit",
+                "Iedereen ervaart hetzelfde geluid op precies dezelfde manier",
+                "Het is subjectief: het verschilt per persoon"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 21,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke gezondheidsgevolgen van geluidsoverlast noemt de tekst?",
+              "opties": [
+                "Longkanker",
+                "Stress",
+                "Hogere bloeddruk",
+                "Slapeloosheid",
+                "Gehoorbeschadiging of doofheid",
+                "Schimmel op de longen"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "uitleg": "Harde en langdurige geluiden geven gehoorschade. Hinderlijk geluid geeft slapeloosheid en irritatie, en regelmatig geeft het stress. Langdurige stress verhoogt de bloeddruk. Longkanker hoort bij radon, niet bij geluid."
+            },
+            {
+              "id": 22,
+              "type": "volgorde",
+              "vraag": "Zet in de juiste volgorde hoe geluidsoverlast tot hart- en vaatproblemen kan leiden.",
+              "opties": {
+                "A": "Je ervaart regelmatig hinderlijk geluid",
+                "B": "Je bloeddruk stijgt door langdurige stress",
+                "C": "Je krijgt stress",
+                "D": "Er ontstaan hart- en vaatproblemen"
+              },
+              "juiste_antwoord": "1:A, 2:C, 3:B, 4:D",
+              "uitleg": "Regelmatig hinderlijk geluid geeft stress. Langdurige stress uit zich in een hogere bloeddruk, en dat kan weer een oorzaak zijn van hart- en vaatproblemen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.2",
+          "subdoel_titel": "Geluid objectief meetbaar maken",
+          "uitleg_tekst": "Hoewel overlast subjectief is, rekent een bouwfysicus met meetbare waarden: een objectieve benadering. Zo zijn er richtlijnen over hoeveel geluid op bepaalde tijden mag (na 22.00 uur minder dan overdag). De bekendste meetbare waarde is de decibel. Geluid meet je met een geluidsniveaumeter. Omdat het oor niet voor alle frequenties even gevoelig is, gebruikt men dB(A): een correctie (A-weging) die weergeeft hoe wij geluid horen. Wettelijke geluidsnormen staan vaak in dB(A).",
+          "vragen": [
+            {
+              "id": 106,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen een subjectieve en een objectieve benadering van geluid?",
+              "uitleg": "Subjectief is hoe een persoon geluid beleeft. Objectief is wat je kunt meten, zoals het aantal decibel. De bouwfysicus rekent met objectieve waarden.",
+              "opties": [
+                "Subjectief meet je in dB(A), objectief in hertz",
+                "Subjectief is beleving, objectief is meetbaar",
+                "Subjectief geldt overdag, objectief na 22.00 uur",
+                "Subjectief is meetbaar, objectief is beleving"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 107,
+              "type": "multiple_choice",
+              "vraag": "Waarmee meet je de geluidssterkte?",
+              "uitleg": "Geluid wordt gemeten met een geluidsniveaumeter, die direct het aantal decibel geeft. Een hygrometer meet luchtvochtigheid en een luxmeter lichtsterkte.",
+              "opties": [
+                "Met een luxmeter op de werkplek",
+                "Met een hygrometer",
+                "Met een thermometer",
+                "Met een geluidsniveaumeter"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 108,
+              "type": "multiple_choice",
+              "vraag": "Waarom gebruikt men vaak dB(A) in plaats van gewone dB?",
+              "uitleg": "Twee geluiden met evenveel dB horen we niet even luid als de frequentie verschilt. dB(A) corrigeert de gemeten waarde (A-weging) zodat die weergeeft hoe wij het geluid horen.",
+              "opties": [
+                "dB(A) meet de toonhoogte in plaats van de sterkte",
+                "dB(A) meet geluid alleen na 22.00 uur",
+                "Het oor is niet voor alle frequenties even gevoelig",
+                "dB(A) is een lineaire schaal en dus makkelijker"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 109,
+              "type": "multiple_choice",
+              "vraag": "Welke regel is een voorbeeld van een objectieve aanpak van geluidsoverlast?",
+              "uitleg": "Een objectieve aanpak gebruikt meetbare waarden. Een geluidsnorm in dB(A), met na 22.00 uur een lagere grens, kun je meten en controleren. Vragen hoe iemand het ervaart is subjectief.",
+              "opties": [
+                "Een enquête over welke geluiden mensen hinderlijk vinden",
+                "Je buren vragen of zij 's avonds last hebben van je muziek",
+                "De muziek zachter zetten als je je er zelf aan ergert",
+                "Een grens in dB(A) die na 22.00 uur lager is dan overdag"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.3",
+          "subdoel_titel": "Wat geluid is",
+          "uitleg_tekst": "Geluid is een trilling van de lucht. Een trilling is een op- en neergaande beweging. Die trillende lucht kun je meten en weergeven als golf.",
+          "vragen": [
+            {
+              "id": 23,
+              "type": "invullen",
+              "vraag": "Vul in: geluid is een ... van de lucht.",
+              "juiste_antwoord": "trilling",
+              "uitleg": "Geluid is een trilling van de lucht: een op- en neergaande beweging. De trillende lucht kun je meten en weergeven als een golf."
+            },
+            {
+              "id": 110,
+              "type": "multiple_choice",
+              "vraag": "Wat is een trilling?",
+              "uitleg": "Een trilling is een op- en neergaande beweging. Geluid is een trilling van de lucht.",
+              "opties": [
+                "Een verschil in luchtdruk tussen binnen en buiten",
+                "Een stroming van warme lucht naar boven",
+                "Een golf elektromagnetische straling",
+                "Een op- en neergaande beweging"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.4",
+          "subdoel_titel": "Geluidsgolven zichtbaar maken",
+          "uitleg_tekst": "Een trilling geef je weer als golf in een grafiek: de tijd op de x-as en de geluidsdruk op de y-as. Eén trilling bestaat uit een opgaande en een neergaande golfbeweging. Uit de grafiek lees je de trillingstijd af (bepaalt de toonhoogte) en de amplitude (bepaalt de geluidssterkte). Twee golven met dezelfde toonhoogte maar een andere sterkte hebben dezelfde trillingstijd en een andere amplitude.",
+          "vragen": [
+            {
+              "id": 111,
+              "type": "multiple_choice",
+              "vraag": "Wat staat er op de assen van de grafiek van een geluidsgolf?",
+              "uitleg": "In de grafiek van een geluidsgolf staat de tijd op de x-as en de geluidsdruk op de y-as. Zo kun je de trillingstijd en de amplitude aflezen.",
+              "opties": [
+                "x-as: frequentie, y-as: tijd",
+                "x-as: geluidsdruk, y-as: tijd",
+                "x-as: afstand, y-as: decibel",
+                "x-as: tijd, y-as: geluidsdruk"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 112,
+              "type": "multiple_choice",
+              "vraag": "Golf A heeft in dezelfde tijd meer trillingen dan golf B. De amplitude is gelijk. Wat klopt?",
+              "uitleg": "Meer trillingen in dezelfde tijd betekent een hogere frequentie en dus een hogere toon. De amplitude bepaalt hoe hard het klinkt; die is gelijk, dus ze klinken even hard.",
+              "opties": [
+                "A klinkt hoger en harder",
+                "A klinkt hoger, maar even hard",
+                "A klinkt lager, maar even hard",
+                "A klinkt harder, maar even hoog"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 113,
+              "type": "multiple_choice",
+              "vraag": "Hoe ziet de golf eruit van een geluid dat steeds zachter wordt (zelfde toon)?",
+              "uitleg": "Zachter betekent een kleinere amplitude. Omdat de toon gelijk blijft, verandert de trillingstijd (en dus de frequentie) niet.",
+              "opties": [
+                "De hele golf schuift steeds verder omhoog ten opzichte van de middenlijn",
+                "De amplitude wordt kleiner, de trillingstijd blijft gelijk",
+                "De trillingstijd wordt langer, de amplitude blijft gelijk",
+                "De amplitude en de trillingstijd worden allebei kleiner"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 114,
+              "type": "multiple_choice",
+              "vraag": "Je tekent twee geluidsgolven met dezelfde toonhoogte maar een verschillende geluidssterkte. Wat is gelijk aan beide golven?",
+              "uitleg": "Dezelfde toonhoogte betekent dezelfde frequentie en dus dezelfde trillingstijd. De sterkte verschilt, dus de amplitude (en de maximale geluidsdruk en het aantal dB) is anders.",
+              "opties": [
+                "De trillingstijd",
+                "De maximale geluidsdruk",
+                "Het aantal decibel",
+                "De amplitude"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.5",
+          "subdoel_titel": "Rekenen met frequentie en trillingstijd",
+          "uitleg_tekst": "De trillingstijd T is de tijd voor één trilling, in seconden. De frequentie f is het aantal trillingen per seconde, in hertz (Hz). Formule: f = 1/T. Een frequentie van 220 Hz betekent 220 trillingen per seconde. De frequentie bepaalt de toonhoogte: hoe hoger de frequentie, hoe hoger het geluid. Mensen horen geluid van 20 Hz tot 20 kHz. Als de trillingstijd toeneemt, wordt de frequentie lager en de toon lager.",
+          "vragen": [
+            {
+              "id": 115,
+              "type": "multiple_choice",
+              "vraag": "De trillingstijd van een geluidsgolf is 0,23 s. Wat is de frequentie?",
+              "uitleg": "f = 1/T = 1/0,23 = 4,3 Hz. Er passen dus ongeveer 4,3 trillingen in één seconde.",
+              "opties": [
+                "0,23 Hz",
+                "4,3 Hz",
+                "43 Hz",
+                "23 Hz"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 116,
+              "type": "multiple_choice",
+              "vraag": "Een geluidsgolf maakt 14 trillingen in 0,40 s. Wat is de frequentie?",
+              "uitleg": "Frequentie = aantal trillingen per seconde = 14 / 0,40 = 35 Hz. Je kunt ook eerst T = 0,40 / 14 = 0,029 s berekenen en dan f = 1/T = 35 Hz. 5,6 krijg je als je 14 × 0,40 doet.",
+              "opties": [
+                "5,6 Hz",
+                "14 Hz",
+                "0,029 Hz",
+                "35 Hz"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 117,
+              "type": "multiple_choice",
+              "vraag": "Een toon heeft een frequentie van 500 Hz. Wat is de trillingstijd?",
+              "uitleg": "T = 1/f = 1/500 = 0,002 s. Bij een hoge frequentie is de trillingstijd dus heel kort.",
+              "opties": [
+                "0,02 s",
+                "500 s",
+                "0,002 s",
+                "0,2 s"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 118,
+              "type": "multiple_choice",
+              "vraag": "Wat gebeurt er als de trillingstijd van een geluid toeneemt?",
+              "uitleg": "f = 1/T: als T groter wordt, wordt f kleiner. Een lagere frequentie betekent een lagere toon.",
+              "opties": [
+                "De frequentie wordt lager en de toon wordt hoger",
+                "De frequentie wordt hoger en de toon wordt hoger",
+                "De frequentie wordt lager en de toon wordt lager",
+                "De amplitude wordt groter en het geluid harder"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 119,
+              "type": "multiple_choice",
+              "vraag": "Welke frequenties kan een mens horen?",
+              "uitleg": "Mensen kunnen geluiden horen van 20 Hz tot 20 kHz (20.000 Hz). 0-140 dB gaat over geluidssterkte en 400-700 nm over zichtbaar licht.",
+              "opties": [
+                "Van 20 Hz tot 20 kHz",
+                "Van 200 Hz tot 400 Hz",
+                "Van 0 dB tot 140 dB",
+                "Van 400 nm tot 700 nm"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 24,
+              "type": "invullen",
+              "vraag": "In welke eenheid druk je frequentie uit? Schrijf de naam voluit.",
+              "juiste_antwoord": "hertz",
+              "uitleg": "Frequentie druk je uit in hertz (Hz): het aantal trillingen per seconde."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.6",
+          "subdoel_titel": "Amplitude en geluidssterkte",
+          "uitleg_tekst": "De geluidssterkte hangt af van de hoogte van de geluidsgolf: de amplitude. De amplitude is de hoogte van de golf ten opzichte van de evenwichtsstand (de horizontale middenlijn). Het maakt niet uit of je die bepaalt bij de opgaande of de neergaande golf. Hoe groter de amplitude, hoe harder het geluid.",
+          "vragen": [
+            {
+              "id": 120,
+              "type": "multiple_choice",
+              "vraag": "Wat is de amplitude van een geluidsgolf?",
+              "uitleg": "De amplitude is de hoogte van de golf ten opzichte van de evenwichtsstand (de horizontale middenlijn). De afstand van top tot dal is twee keer de amplitude.",
+              "opties": [
+                "De afstand van de top tot het dal van de golf",
+                "De hoogte van de golf vanaf de middenlijn",
+                "Het aantal trillingen per seconde",
+                "De tijd die nodig is voor één trilling"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 121,
+              "type": "multiple_choice",
+              "vraag": "De amplitude van een geluidsgolf wordt groter, de frequentie blijft gelijk. Wat hoor je?",
+              "uitleg": "De amplitude bepaalt de geluidssterkte: hoe groter de amplitude, hoe harder. De toonhoogte hangt af van de frequentie, en die blijft gelijk.",
+              "opties": [
+                "Het geluid wordt harder en de toon wordt hoger",
+                "Het geluid wordt harder, de toon blijft gelijk",
+                "Het geluid wordt zachter, de toon blijft gelijk",
+                "De toon wordt hoger, het geluid blijft even hard"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 122,
+              "type": "multiple_choice",
+              "vraag": "Maakt het uit of je de amplitude bepaalt bij de opgaande of bij de neergaande golf?",
+              "uitleg": "De amplitude is de afstand van de top (of het dal) tot de middenlijn. Die is bij de opgaande en de neergaande golf even groot.",
+              "opties": [
+                "Nee, de afstand tot de middenlijn is gelijk",
+                "Ja, alleen de neergaande golf telt mee",
+                "Nee, want de amplitude is altijd 0",
+                "Ja, de opgaande golf is altijd hoger"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.7",
+          "subdoel_titel": "Geluidssterkte in decibel",
+          "uitleg_tekst": "Hoe hard we een geluid ervaren, meten we in decibel (dB). De decibel geeft eigenlijk de verhouding tussen geluidssterktes weer. 0 dB is het zachtste geluid dat een mens kan horen (de gehoordrempel); dat betekent niet dat er geen geluid is. Vanaf 140 dB loop je kans op directe, blijvende gehoorschade.",
+          "vragen": [
+            {
+              "id": 123,
+              "type": "multiple_choice",
+              "vraag": "In welke maat wordt de geluidssterkte uitgedrukt?",
+              "uitleg": "Hoe hard we een geluid ervaren, wordt gemeten in decibel (dB). Hertz is de eenheid van frequentie (toonhoogte).",
+              "opties": [
+                "Decibel (dB)",
+                "Kelvin (K)",
+                "Lux (lx)",
+                "Hertz (Hz)"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 124,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent een geluidssterkte van 0 dB?",
+              "uitleg": "Een mens kan geluid horen vanaf 0 dB. Dat betekent niet dat er geen geluid is: heel zachte geluiden kun je als mens alleen niet horen.",
+              "opties": [
+                "De gehoordrempel, maar er is nog wel geluid",
+                "Er is helemaal geen geluid",
+                "Het geluid is net zo hard als de achtergrond",
+                "Het geluid heeft een frequentie van 0 Hz"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 125,
+              "type": "multiple_choice",
+              "vraag": "Vanaf hoeveel decibel loop je kans op directe, blijvende gehoorschade?",
+              "uitleg": "Vanaf 140 dB loop je kans om direct blijvende schade aan je gehoor op te lopen. 54 dB is de eis uit het Bouwbesluit voor muren.",
+              "opties": [
+                "140 dB",
+                "54 dB",
+                "85 dB",
+                "20 dB"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.8",
+          "subdoel_titel": "Hoe de decibelschaal werkt",
+          "uitleg_tekst": "De decibelschaal is logaritmisch: elke stap van 10 dB betekent dat het geluid 10 keer zo sterk wordt. +20 dB = 10 × 10 = 100 keer, +30 dB = 1000 keer. Geluid neemt af door demping: hoe verder van de bron, hoe meer deeltjes er in trilling moeten worden gebracht, dus de energie wordt verdeeld. Buiten en zonder obstakels neemt de geluidssterkte 6 dB af bij elke verdubbeling van de afstand. Absorptie is iets anders: een materiaal zet een deel van het geluid om in warmte; de rest wordt weerkaatst en kan galm geven.",
+          "vragen": [
+            {
+              "id": 126,
+              "type": "multiple_choice",
+              "vraag": "Je zet je bluetooth-speaker harder van 40 naar 70 dB. Hoeveel keer sterker is het geluid nu?",
+              "uitleg": "Van 40 naar 70 dB zijn 3 stappen van 10 dB. Elke stap is 10 keer sterker: 10 × 10 × 10 = 1000 keer. De schaal is logaritmisch, dus je mag niet gewoon 30 keer zeggen.",
+              "opties": [
+                "3 keer",
+                "30 keer",
+                "300 keer",
+                "1000 keer"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 127,
+              "type": "multiple_choice",
+              "vraag": "Een geluid gaat van 30 dB naar 50 dB. Hoeveel keer zo sterk is het geworden?",
+              "uitleg": "Van 30 naar 50 dB zijn 2 stappen van 10 dB: 10 × 10 = 100 keer zo sterk.",
+              "opties": [
+                "100 keer",
+                "20 keer",
+                "1,7 keer",
+                "2 keer"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 128,
+              "type": "multiple_choice",
+              "vraag": "Waarom heet de decibelschaal logaritmisch?",
+              "uitleg": "Bij een logaritmische schaal betekent elke stap van 10 dB een vermenigvuldiging met 10. Daardoor kun je met kleine getallen een enorm verschil in geluidssterkte weergeven.",
+              "opties": [
+                "Elke 10 dB erbij betekent 2 keer zo sterk",
+                "Elke dB erbij betekent 1 keer zo sterk",
+                "Elke 10 dB erbij betekent 10 keer zo sterk",
+                "De schaal loopt van 20 Hz tot 20 kHz"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 129,
+              "type": "multiple_choice",
+              "vraag": "Een puntbron geeft op 100 m afstand 50 dB. Er staan geen obstakels. Hoe sterk is het geluid op 400 m?",
+              "uitleg": "Bij elke verdubbeling van de afstand daalt het geluid 6 dB. 100 → 200 m: 44 dB. 200 → 400 m: 38 dB. 32 dB krijg je als je per 100 m 6 dB aftrekt; dat is niet hoe demping werkt.",
+              "opties": [
+                "38 dB",
+                "44 dB",
+                "26 dB",
+                "32 dB"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 130,
+              "type": "multiple_choice",
+              "vraag": "Een fabriek geeft op 100 m afstand 50 dB. Hoe sterk is het geluid op 800 m (zonder obstakels)?",
+              "uitleg": "100 → 200 → 400 → 800 m zijn drie verdubbelingen. 50 − 3 × 6 = 32 dB. 8 dB krijg je als je per 100 m 6 dB aftrekt (7 × 6 = 42); dat is fout, want demping werkt per verdubbeling van de afstand.",
+              "opties": [
+                "32 dB",
+                "44 dB",
+                "38 dB",
+                "8 dB"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 131,
+              "type": "multiple_choice",
+              "vraag": "Een fabriek geeft op 100 m afstand 50 dB. Je huis staat op 500 m van de fabriek, zonder obstakels ertussen. Tussen welke waarden ligt de geluidssterkte bij je huis?",
+              "uitleg": "Reken met verdubbelingen: 200 m = 44 dB, 400 m = 38 dB, 800 m = 32 dB. 500 m ligt tussen 400 en 800 m, dus het geluid ligt tussen 38 en 32 dB (het is ongeveer 36 dB). 26 dB krijg je als je per 100 m 6 dB aftrekt (50 − 4 × 6); dat is fout, want demping werkt per verdubbeling van de afstand.",
+              "opties": [
+                "Tussen 32 en 38 dB",
+                "Tussen 44 en 50 dB",
+                "Tussen 38 en 44 dB",
+                "Precies 26 dB"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 132,
+              "type": "multiple_choice",
+              "vraag": "Hoe neemt geluid af bij demping?",
+              "uitleg": "Bij demping verspreidt het geluid zich in steeds grotere cirkels rond de bron. Er moeten steeds meer deeltjes in trilling worden gebracht, dus de energie per deeltje (en de geluidssterkte) neemt af. Omzetting in warmte door materiaal heet absorptie.",
+              "opties": [
+                "De frequentie wordt lager naarmate je verder weg bent",
+                "Een materiaal zet het geluid om in warmte",
+                "De energie wordt verdeeld over steeds meer deeltjes",
+                "Het geluid wordt door muren teruggekaatst"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 25,
+              "type": "invullen",
+              "vraag": "Een deel van het geluid neemt af doordat een materiaal het omzet in warmte. Hoe heet dit?",
+              "juiste_antwoord": "absorptie",
+              "uitleg": "Dit heet absorptie. Hoeveel er wordt geabsorbeerd, hangt af van het materiaal. Het deel dat niet wordt geabsorbeerd, wordt weerkaatst en kan galm geven."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.9",
+          "subdoel_titel": "Geluidsisolatie in de woning",
+          "uitleg_tekst": "In een woning onderscheid je luchtgeluid (direct van een bron door de lucht, zoals een radio of vliegtuig; brengt muren en vloeren in trilling), contactgeluid (een bron maakt direct contact met vloer, wand of plafond, zoals een wasmachine, hakken of boren) en nagalm (geluid dat door muren en vloeren wordt weerkaatst). Het Bouwbesluit eist dat een muur luchtgeluid met minstens 54 dB vermindert. Maatregelen: kieren dichten, het massa-veer-principe (een verende laag tussen twee massa's), een zwevende vloer die nergens de dragende vloer raakt. In de inrichting verminderen kleden, gordijnen, kussens, kasten en planten de weerkaatsing.",
+          "vragen": [
+            {
+              "id": 26,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke voorbeelden zijn contactgeluid?",
+              "opties": [
+                "Boren in een muur",
+                "Iemand die met hakken over de vloer loopt",
+                "Een wasmachine die op de vloer staat",
+                "Een overvliegend vliegtuig",
+                "Een radio midden in de kamer"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Contactgeluid ontstaat als een geluidsbron direct contact maakt met een vloer, wand of plafond. Een vliegtuig en een radio geven luchtgeluid: dat komt rechtstreeks via de lucht."
+            },
+            {
+              "id": 133,
+              "type": "multiple_choice",
+              "vraag": "Je zet de boxen van je stereo direct op de laminaatvloer en draait het geluid flink open. Welk geluid hoort de buurman beneden?",
+              "uitleg": "De trillingen van de boxen gaan direct via de vloer naar het plafond beneden: contactgeluid. Bij hard geluid komt ook luchtgeluid door de vloer. Rubber dopjes of een kurken mat onder de boxen helpt tegen het contactgeluid.",
+              "opties": [
+                "Alleen luchtgeluid, want het komt via de lucht",
+                "Alleen nagalm",
+                "Alleen contactgeluid",
+                "Zowel luchtgeluid als contactgeluid"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 134,
+              "type": "multiple_choice",
+              "vraag": "Je huis voldoet aan het Bouwbesluit. Je stereo geeft 100 dB. Hoeveel dB hoort de buurman in de kamer ernaast, als er alleen luchtgeluid is?",
+              "uitleg": "Volgens het Bouwbesluit moet een muur luchtgeluid met minstens 54 dB verminderen. 100 − 54 = 46 dB. 94 dB krijg je als je de 6 dB van demping gebruikt; dat geldt voor afstand, niet voor een muur.",
+              "opties": [
+                "54 dB",
+                "94 dB",
+                "46 dB",
+                "154 dB"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 135,
+              "type": "multiple_choice",
+              "vraag": "Hoe werkt het massa-veer-principe bij geluidsisolatie?",
+              "uitleg": "Tussen twee massa's (de muren) zit een verende isolatielaag: lucht of geluidswerend materiaal. Hoe dikker die laag, hoe beter de geluidstrillingen worden gedempt.",
+              "opties": [
+                "Een zware muur zet geluid om in warmte",
+                "Een verende laag tussen twee muren",
+                "Twee muren tegen elkaar aan geven geen geluid door",
+                "Een veer onder de vloer maakt contactgeluid harder"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 136,
+              "type": "multiple_choice",
+              "vraag": "Waarom mag een zwevende vloer nergens contact maken met de dragende vloer eronder?",
+              "uitleg": "Bij een zwevende vloer zit een geluidsisolerende laag tussen de bovenvloer en de dragende vloer. Als ze elkaar nergens raken, worden trillingen (contactgeluid) niet direct doorgegeven naar de verdieping eronder.",
+              "opties": [
+                "Dan worden geluidstrillingen niet direct doorgegeven",
+                "Dan kan er lucht onder de vloer ventileren",
+                "Dan ontstaat er geen condensatie onder de vloer",
+                "Dan kan de vloer warmte beter vasthouden"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 137,
+              "type": "multiple_choice",
+              "vraag": "Waarom klinkt een lege kamer hol en galmend?",
+              "uitleg": "Zonder inrichting wordt het geluid steeds weerkaatst tussen de wanden en tussen vloer en plafond: nagalm. Meubels, gordijnen en vloerkleden absorberen geluid en verminderen die weerkaatsing.",
+              "opties": [
+                "In een lege kamer is de frequentie van geluid hoger",
+                "In een lege kamer is er meer demping door de afstand",
+                "In een lege kamer wordt geluid omgezet in warmte",
+                "Geluid weerkaatst tussen kale wanden, vloer en plafond"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 27,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke inrichtingselementen verminderen de weerkaatsing van geluid in een kamer?",
+              "opties": [
+                "Kussens",
+                "Planten",
+                "Een kale tegelvloer",
+                "Gordijnen",
+                "Glazen wanden",
+                "Vloerkleden"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3,
+                5
+              ],
+              "uitleg": "Kleden, gordijnen, kussens, kasten en planten absorberen geluid; de vrij bewegende bladeren van planten absorberen veel trillingen. Harde, gladde oppervlakken zoals tegels en glas kaatsen het geluid juist terug."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.5",
+      "leerdoel_id": 5,
+      "leerdoel_titel": "Warmte",
+      "uitleg_tekst": "Warmte is inwendige energie: de som van de kinetische en potentiële energie van moleculen. Warmte gaat altijd van hoge naar lage temperatuur, op drie manieren: stroming (convectie), straling en geleiding. Met isolatie ga je elke vorm tegen: tochtwering tegen stroming, materialen met een lage λ tegen geleiding, reflecterende lagen tegen straling. De warmtegeleidingscoëfficiënt λ zegt hoe goed een materiaal warmte geleidt. De warmteweerstand R = d/λ hangt af van de dikte en het materiaal; bij meerdere lagen tel je de R-waarden op: Rt = R1 + R2 + ...",
+      "begrippen": [
+        {
+          "begrip": "warmte",
+          "definitie": "inwendige energie: de som van de kinetische en potentiële energie van de moleculen; uitgedrukt in joule (J)"
+        },
+        {
+          "begrip": "warmtetransport",
+          "definitie": "transport van inwendige energie door een temperatuurverschil; altijd van hoge naar lage temperatuur"
+        },
+        {
+          "begrip": "warmtestroom (Φ)",
+          "definitie": "de hoeveelheid warmte die per tijdseenheid verplaatst wordt, in J/s = watt (W)"
+        },
+        {
+          "begrip": "stroming (convectie)",
+          "definitie": "warmtetransport doordat een stromende vloeistof of gas warmte meeneemt"
+        },
+        {
+          "begrip": "vrije convectie",
+          "definitie": "beweging van lucht door een temperatuurverschil (warme lucht stijgt)"
+        },
+        {
+          "begrip": "gedwongen convectie",
+          "definitie": "convectie door de wind of een ventilator"
+        },
+        {
+          "begrip": "straling (radiatie)",
+          "definitie": "warmtetransport door elektromagnetische straling; elk object warmer dan 0 K straalt; hoe warmer, hoe meer"
+        },
+        {
+          "begrip": "geleiding (conductie)",
+          "definitie": "warmtetransport tussen materialen die elkaar aanraken"
+        },
+        {
+          "begrip": "warmtegeleidingscoëfficiënt (λ)",
+          "definitie": "maat voor hoe goed een materiaal warmte geleidt, in W/mK; hoge λ = goede geleider, slechte isolator"
+        },
+        {
+          "begrip": "warmteweerstand (R)",
+          "definitie": "maat voor hoe goed een laag isoleert, in m²K/W; R = d/λ"
+        },
+        {
+          "begrip": "totale warmteweerstand (Rt)",
+          "definitie": "de som van de warmteweerstanden van alle lagen van een constructie: Rt = R1 + R2 + R3 + ..."
+        },
+        {
+          "begrip": "koudeval",
+          "definitie": "koude, zware lucht die bij een raam naar beneden zakt; een radiator onder het raam gaat dit tegen"
+        }
+      ],
+      "subdoelen": [
+        {
+          "subdoel_id": "5.1",
+          "subdoel_titel": "Wat warmte is",
+          "uitleg_tekst": "Warmte is inwendige energie: de som van kinetische en potentiële energie. Die zit in alle materie. Als de temperatuur stijgt, bewegen de moleculen sneller (meer kinetische energie) en wordt de afstand tussen de moleculen groter (meer potentiële energie). Het materiaal neemt dan meer ruimte in: het zet uit, zoals spoorrails in de zomer. Warmte druk je uit in joule (J). De warmtestroom Φ is de hoeveelheid warmte per seconde, in J/s = watt (W).",
+          "vragen": [
+            {
+              "id": 138,
+              "type": "multiple_choice",
+              "vraag": "Wat is warmte?",
+              "uitleg": "Warmte is inwendige energie: de som van de kinetische energie (beweging) en de potentiële energie (afstand) van de moleculen. Die zit in alle materie: in gassen, vloeistoffen en vaste stoffen.",
+              "opties": [
+                "De hoeveelheid lucht die per uur door een ruimte stroomt",
+                "Inwendige energie van de moleculen in een stof",
+                "De temperatuur van een stof, gemeten in graden Celsius",
+                "Elektromagnetische straling die alleen hete voorwerpen uitzenden"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 139,
+              "type": "multiple_choice",
+              "vraag": "Wat gebeurt er met de moleculen in een materiaal als de temperatuur stijgt?",
+              "uitleg": "Bij een hogere temperatuur neemt de kinetische energie toe (de moleculen bewegen sneller) en ook de potentiële energie (de afstand tussen de moleculen wordt groter).",
+              "opties": [
+                "Ze bewegen sneller en komen dichter bij elkaar",
+                "Ze bewegen langzamer en komen dichter bij elkaar",
+                "Ze bewegen sneller en komen verder uit elkaar",
+                "Ze blijven stil staan maar worden groter"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 140,
+              "type": "multiple_choice",
+              "vraag": "Waarom zetten spoorrails uit op een hete dag?",
+              "uitleg": "Als het materiaal warmer wordt, neemt de potentiële energie toe doordat de afstand tussen de moleculen groter wordt. Dan neemt het materiaal meer ruimte in: het zet uit.",
+              "opties": [
+                "Er stroomt warme lucht in kleine gaatjes in het metaal",
+                "Het metaal neemt waterdamp op uit de warme lucht",
+                "Moleculen komen verder uit elkaar, dus de rail neemt meer ruimte in",
+                "De rails ontvangen meer elektromagnetische straling dan ze uitzenden"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 28,
+              "type": "invullen",
+              "vraag": "Warmte is een vorm van energie. In welke eenheid druk je warmte uit?",
+              "juiste_antwoord": "joule",
+              "uitleg": "Warmte druk je uit in joule (J). De warmtestroom, de hoeveelheid warmte per seconde, druk je uit in J/s, en dat is gelijk aan watt (W)."
+            },
+            {
+              "id": 141,
+              "type": "multiple_choice",
+              "vraag": "In welke eenheid druk je een warmtestroom (Φ) uit?",
+              "uitleg": "Een warmtestroom is de hoeveelheid warmte die per tijdseenheid verplaatst: J/s, en dat is hetzelfde als watt (W). W/mK is de eenheid van λ.",
+              "opties": [
+                "Kelvin",
+                "W/mK",
+                "Watt (J/s)",
+                "Joule"
+              ],
+              "juiste_antwoord": 2
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.2",
+          "subdoel_titel": "Drie manieren van warmtetransport",
+          "uitleg_tekst": "Bij een temperatuurverschil is er altijd warmtetransport, van hoge naar lage temperatuur. Dat gaat op drie manieren. Stroming (convectie): bij een radiator wordt lucht warmer, de moleculen gaan verder uit elkaar, de lucht wordt lichter en stijgt op; koude lucht stroomt aan. Beweging door temperatuurverschil is vrije convectie; door wind of een ventilator is het gedwongen convectie. Straling: elk object warmer dan 0 K zendt elektromagnetische straling uit; hoe warmer, hoe meer. Die warmte voel je ook als de lucht niet warmer wordt. Geleiding (conductie): warmtetransport tussen materialen die elkaar raken, zoals bij vloerverwarming. Radiatoren hangen vaak onder ramen om koudeval tegen te gaan.",
+          "vragen": [
+            {
+              "id": 29,
+              "type": "choose_all_that_apply",
+              "vraag": "Op welke drie manieren kan warmtetransport plaatsvinden?",
+              "opties": [
+                "Stroming (convectie)",
+                "Straling (radiatie)",
+                "Geleiding (conductie)",
+                "Absorptie",
+                "Infiltratie"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Warmteoverdracht gaat via stroming (convectie), straling (radiatie) en geleiding (conductie). Absorptie gaat over geluid en infiltratie over lucht via kieren."
+            },
+            {
+              "id": 142,
+              "type": "multiple_choice",
+              "vraag": "In welke richting gaat warmtetransport altijd?",
+              "uitleg": "Warmte beweegt altijd van een plaats met een hogere temperatuur naar een plaats met een lagere temperatuur, zoals water altijd naar beneden stroomt. Zonder temperatuurverschil is er geen warmtetransport.",
+              "opties": [
+                "Van beneden naar boven",
+                "Van een hogere naar een lagere temperatuur",
+                "Van een lagere naar een hogere temperatuur",
+                "Van binnen naar buiten"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 143,
+              "type": "multiple_choice",
+              "vraag": "Waarom stijgt de lucht boven een warme radiator op?",
+              "uitleg": "Lucht die tegen de radiator aan zit wordt warmer. De moleculen gaan verder uit elkaar, er zijn per volume minder moleculen en de lucht wordt lichter. Die warme lucht stijgt op en koudere lucht stroomt aan: stroming.",
+              "opties": [
+                "De radiator blaast de lucht met een ventilator omhoog",
+                "De straling van de radiator duwt de lucht omhoog",
+                "De lucht wordt warmer, zet uit en wordt lichter",
+                "Koude lucht is lichter en drukt de warme lucht omhoog"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 144,
+              "type": "multiple_choice",
+              "vraag": "Je loopt in de winter een modezaak binnen waarvan de deuren openstaan, en je voelt direct een warme luchtstroom. Welke vorm van warmtetransport is dit?",
+              "uitleg": "Bij de ingang wordt lucht langs een verwarmingsbron geblazen. Convectie door een ventilator of de wind heet gedwongen convectie. Bij vrije convectie beweegt lucht alleen door het temperatuurverschil.",
+              "opties": [
+                "Geleiding",
+                "Straling",
+                "Vrije convectie",
+                "Gedwongen convectie"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 145,
+              "type": "multiple_choice",
+              "vraag": "Bij een kampvuur voel je de warmte op je gezicht, maar zodra je een stap opzij doet niet meer. De luchttemperatuur is gelijk gebleven. Welke vorm van warmtetransport is dit?",
+              "uitleg": "Een warm object zendt elektromagnetische straling uit. Die warmte voel je ook als de luchttemperatuur gelijk blijft, en zodra je uit de straling stapt, voel je de warmte niet meer.",
+              "opties": [
+                "Geleiding",
+                "Straling",
+                "Vrije convectie",
+                "Gedwongen convectie"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 146,
+              "type": "multiple_choice",
+              "vraag": "Welk veelgebruikt verwarmingssysteem geeft zijn warmte vooral via geleiding af?",
+              "uitleg": "Bij vloerverwarming wordt warmte via geleiding doorgegeven aan de vloerlaag en aan je voeten, die de vloer aanraken. Geleiding is warmtetransport tussen materialen die elkaar aanraken.",
+              "opties": [
+                "Een open haard",
+                "Vloerverwarming",
+                "Een warmtepomp met ventilator",
+                "Een radiator midden in de kamer"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 147,
+              "type": "multiple_choice",
+              "vraag": "Waarom koelt een radiator die uitstaat niet af, terwijl hij wel straling uitzendt?",
+              "uitleg": "Elk object warmer dan 0 K zendt straling uit. De omgeving en de radiator stralen evenveel naar elkaar, dus de temperatuur verandert niet. Pas als de radiator warmer wordt, straalt hij meer uit dan hij ontvangt.",
+              "opties": [
+                "Straling neemt alleen warmte mee bij hoge temperaturen",
+                "De lucht om de radiator geleidt de warmte terug",
+                "Hij ontvangt evenveel straling als hij uitzendt",
+                "Een radiator die uitstaat zendt geen straling uit"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 148,
+              "type": "multiple_choice",
+              "vraag": "Waarom hangen radiatoren vaak onder een raam?",
+              "uitleg": "Glas isoleert minder goed dan een muur, dus de lucht bij het raam is het koudst. Koude lucht is zwaarder en zakt naar beneden: koudeval. Een radiator onder het raam warmt die lucht op.",
+              "opties": [
+                "Om koudeval bij het koude glas tegen te gaan",
+                "Omdat warme lucht dan direct naar buiten kan ventileren",
+                "Omdat glas warmte beter isoleert dan een muur",
+                "Omdat de radiator dan straling naar buiten kan uitzenden"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 30,
+              "type": "volgorde",
+              "vraag": "Zet in de juiste volgorde hoe een radiator een kamer verwarmt door stroming.",
+              "opties": {
+                "A": "De warme lucht stijgt op naar het plafond",
+                "B": "De radiator wordt warm",
+                "C": "Koudere lucht stroomt aan en wordt ook opgewarmd",
+                "D": "De lucht langs de radiator warmt op en wordt lichter"
+              },
+              "juiste_antwoord": "1:B, 2:D, 3:A, 4:C",
+              "uitleg": "De radiator warmt de lucht ertegen op. Die lucht zet uit, wordt lichter en stijgt. Koudere lucht stroomt aan en wordt ook opgewarmd. Zo ontstaat een continue luchtstroom die ook wanden, vloer en plafond verwarmt."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.3",
+          "subdoel_titel": "Isoleren tegen warmtetransport",
+          "uitleg_tekst": "Tegen elke vorm van warmtetransport kun je iets doen. Tegen stroming (convectie): kieren dichten en tochtwering, en een stilstaande luchtlaag (spouw) waarin de lucht niet kan stromen. Tegen geleiding: materialen met een lage λ en dus een hoge R, zoals PUR-schuim, PS-schuim en HR++ glas. Tegen straling: een reflecterende laag, zoals de coating in HR++ glas of folie achter een radiator, die de straling terugkaatst. Kunststof handvatten aan een pan werken ook zo: kunststof geleidt warmte slecht.",
+          "vragen": [
+            {
+              "id": 149,
+              "type": "multiple_choice",
+              "vraag": "Welke maatregel helpt vooral tegen warmteverlies door stroming (convectie)?",
+              "uitleg": "Bij stroming neemt bewegende lucht de warmte mee. Door kieren te dichten en tochtwering aan te brengen, stroomt er minder warme lucht naar buiten.",
+              "opties": [
+                "De radiator midden in de kamer zetten",
+                "Een materiaal met een hoge λ in de muur gebruiken",
+                "Kieren dichten en tochtwering aanbrengen",
+                "Een dunnere laag isolatiemateriaal gebruiken"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 150,
+              "type": "multiple_choice",
+              "vraag": "Welke maatregel helpt vooral tegen warmteverlies door geleiding?",
+              "uitleg": "Bij geleiding gaat warmte door het materiaal heen. Een materiaal met een lage λ geleidt slecht en heeft dus een hoge warmteweerstand. Daarom gebruikt men isolatiematerialen zoals PUR-schuim en PS-schuim.",
+              "opties": [
+                "Een materiaal met een hoge λ, zoals metaal",
+                "De ramen een tijdje openzetten om te luchten",
+                "Een materiaal met een lage λ, zoals PUR-schuim",
+                "Kieren dichten met tochtstrips"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 151,
+              "type": "multiple_choice",
+              "vraag": "Welke maatregel helpt vooral tegen warmteverlies door straling?",
+              "uitleg": "Straling is elektromagnetische straling. Een reflecterende laag, zoals de coating van HR++ glas of folie achter de radiator, kaatst die terug, zodat er minder warmte verloren gaat.",
+              "opties": [
+                "Een dikkere laag steen in de muur",
+                "Een radiator met een hogere λ",
+                "Een ventilator die de lucht laat circuleren",
+                "Een reflecterende laag"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 152,
+              "type": "multiple_choice",
+              "vraag": "Waarom zitten er vaak kunststof handvatten aan metalen pannen?",
+              "uitleg": "Metaal geleidt warmte goed (hoge λ), maar kunststof slecht (lage λ). Daardoor wordt het handvat niet heet en kun je de pan met je hand vastpakken.",
+              "opties": [
+                "Kunststof voorkomt dat er convectie ontstaat",
+                "Kunststof kaatst de straling van het fornuis terug",
+                "Kunststof heeft een hoge λ en geleidt de warmte goed",
+                "Kunststof heeft een lage λ"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 153,
+              "type": "multiple_choice",
+              "vraag": "Waarom isoleert een luchtspouw in een muur zo goed?",
+              "uitleg": "Stilstaande lucht geleidt warmte heel slecht: λ = 0,024 W/mK, nog lager dan isolatiemateriaal. Zolang de lucht niet kan stromen, isoleert een spouw dus goed.",
+              "opties": [
+                "De lucht in de spouw zendt geen straling uit",
+                "Lucht in de spouw stroomt snel naar buiten",
+                "Stilstaande lucht heeft een zeer lage λ",
+                "Lucht heeft een zeer hoge λ"
+              ],
+              "juiste_antwoord": 2
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.4",
+          "subdoel_titel": "De warmtegeleidingscoëfficiënt",
+          "uitleg_tekst": "De warmtegeleidingscoëfficiënt λ (lambda) geeft aan hoe gemakkelijk een materiaal warmte doorgeeft. De eenheid is W/mK. Een hoge λ betekent een goede geleider: warmte verplaatst snel. Metaal (radiator) heeft een hoge λ, daarom gebruikt men het voor verwarming. Een lage λ betekent een slechte geleider en dus een goede isolator. Voorbeelden: lucht in een spouw 0,024, isolatiemateriaal 0,035, baksteen 0,3, kalkzandsteen 1,15 W/mK.",
+          "vragen": [
+            {
+              "id": 154,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent een hoge warmtegeleidingscoëfficiënt (λ)?",
+              "uitleg": "Voorwerpen die gemakkelijk warmte doorgeven, hebben een hoge λ. Hoe hoger λ, hoe sneller de warmte zich verplaatst. Daarom gebruikt men voor radiatoren materialen met een hoge λ.",
+              "opties": [
+                "Het materiaal geleidt warmte goed en isoleert slecht",
+                "Het materiaal kaatst warmtestraling terug",
+                "Het materiaal heeft een hoge warmteweerstand",
+                "Het materiaal geleidt warmte slecht en isoleert dus juist goed"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 31,
+              "type": "invullen",
+              "vraag": "Welke Griekse letter is het symbool voor de warmtegeleidingscoëfficiënt?",
+              "juiste_antwoord": "lambda",
+              "uitleg": "Het symbool is λ, de Griekse letter lambda. De eenheid is W/mK."
+            },
+            {
+              "id": 155,
+              "type": "multiple_choice",
+              "vraag": "Wat is de eenheid van de warmtegeleidingscoëfficiënt λ?",
+              "uitleg": "λ heeft de eenheid W/mK. m²K/W is de eenheid van de warmteweerstand R, J/s is watt (warmtestroom) en 1/uur hoort bij het ventilatievoud.",
+              "opties": [
+                "J/s",
+                "1/uur",
+                "m²K/W",
+                "W/mK"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 32,
+              "type": "volgorde",
+              "vraag": "Zet deze materialen in volgorde van lage naar hoge λ (van beste isolator naar beste geleider).",
+              "opties": {
+                "A": "Baksteen",
+                "B": "Isolatiemateriaal",
+                "C": "Stilstaande lucht (spouw)",
+                "D": "Kalkzandsteen"
+              },
+              "juiste_antwoord": "1:C, 2:B, 3:A, 4:D",
+              "uitleg": "Lucht in de spouw: λ = 0,024. Isolatiemateriaal: 0,035. Baksteen: 0,3. Kalkzandsteen: 1,15 W/mK. Hoe lager λ, hoe beter het materiaal isoleert."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.5",
+          "subdoel_titel": "Waar de isolatiewaarde van een muur van afhangt",
+          "uitleg_tekst": "Om warmteverlies te voorkomen gebruik je materialen met een hoge warmteweerstand R. De warmteweerstand van een laag hangt af van twee dingen: de dikte d en het materiaal (λ). R = d/λ: een dikkere laag of een materiaal met een lagere λ geeft een hogere R. Hoge R = goede isolatie. Let op: hoge λ is juist slecht voor isolatie, hoge R is goed.",
+          "vragen": [
+            {
+              "id": 33,
+              "type": "choose_all_that_apply",
+              "vraag": "Waarvan hangt de warmteweerstand van een laag in een muur af?",
+              "opties": [
+                "De temperatuur buiten",
+                "De dikte van de laag",
+                "Het soort materiaal (de λ)",
+                "De hoeveelheid ventilatie",
+                "De kleur van de muur"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2
+              ],
+              "uitleg": "R = d/λ. De warmteweerstand hangt dus af van de dikte (d) en van het materiaal (λ). Kleur, buitentemperatuur en ventilatie zitten niet in de formule."
+            },
+            {
+              "id": 156,
+              "type": "multiple_choice",
+              "vraag": "Je maakt de isolatielaag in een muur twee keer zo dik. Wat gebeurt er met de warmteweerstand van die laag?",
+              "uitleg": "R = d/λ. Als d twee keer zo groot wordt en λ gelijk blijft, wordt R ook twee keer zo groot. Een dikkere laag isoleert dus beter.",
+              "opties": [
+                "Die wordt vier keer zo groot",
+                "Die wordt twee keer zo klein",
+                "Die wordt twee keer zo groot",
+                "Die blijft gelijk"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 157,
+              "type": "multiple_choice",
+              "vraag": "Welke combinatie hoort bij een goed isolatiemateriaal?",
+              "uitleg": "Een goed isolatiemateriaal geleidt warmte slecht (lage λ) en heeft daardoor een hoge warmteweerstand (R = d/λ). Hoge λ en hoge R kan niet samen bij dezelfde dikte.",
+              "opties": [
+                "Lage λ en hoge R",
+                "Hoge λ en lage R",
+                "Lage λ en lage R",
+                "Hoge λ en hoge R"
+              ],
+              "juiste_antwoord": 0
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.6",
+          "subdoel_titel": "Rekenen met de warmteweerstand",
+          "uitleg_tekst": "De warmteweerstand van een laag: R = d/λ, met R in m²K/W, d (dikte) in meter en λ in W/mK. Let op: reken de dikte eerst om naar meter (150 mm = 0,15 m). Een muur bestaat uit meerdere lagen. De totale warmteweerstand is de som: Rt = R1 + R2 + R3 + ... Voorbeeld spouwmuur: baksteen 0,10 m (λ = 0,3), spouw 0,04 m (λ = 0,024), isolatie 0,15 m (λ = 0,035), kalkzandsteen 0,10 m (λ = 1,15). Rt = 0,33 + 1,67 + 4,29 + 0,09 = 6,4 m²K/W.",
+          "vragen": [
+            {
+              "id": 158,
+              "type": "multiple_choice",
+              "vraag": "Een isolatielaag is 150 mm dik en heeft λ = 0,035 W/mK. Wat is de warmteweerstand?",
+              "uitleg": "Eerst omrekenen: 150 mm = 0,15 m. R = d/λ = 0,15 / 0,035 = 4,3 m²K/W. 429 krijg je als je in centimeters rekent (15 / 0,035), en 0,23 als je de breuk omdraait.",
+              "opties": [
+                "4,3 m²K/W",
+                "0,0053 m²K/W",
+                "0,23 m²K/W",
+                "429 m²K/W"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 159,
+              "type": "multiple_choice",
+              "vraag": "Een laag baksteen is 0,10 m dik met λ = 0,3 W/mK. Wat is de warmteweerstand van deze laag?",
+              "uitleg": "R = d/λ = 0,10 / 0,3 = 0,33 m²K/W. 3,0 krijg je als je λ/d doet, en 0,03 als je d × λ doet.",
+              "opties": [
+                "0,03 m²K/W",
+                "0,33 m²K/W",
+                "30 m²K/W",
+                "3,0 m²K/W"
+              ],
+              "juiste_antwoord": 1
+            },
+            {
+              "id": 160,
+              "type": "multiple_choice",
+              "vraag": "Hoe bereken je de totale warmteweerstand (Rt) van een muur die uit meerdere lagen bestaat?",
+              "uitleg": "De totale warmteweerstand van een constructie is de som van de weerstanden van alle lagen: Rt = R1 + R2 + R3 + R4 enzovoort.",
+              "opties": [
+                "Je telt de R-waarden van alle lagen op",
+                "Je telt de λ-waarden van alle lagen op",
+                "Je neemt de hoogste R-waarde van de lagen",
+                "Je vermenigvuldigt de R-waarden met elkaar"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 161,
+              "type": "multiple_choice",
+              "vraag": "Een spouwmuur bestaat van buiten naar binnen uit: baksteen 0,10 m (λ = 0,3), luchtspouw 0,04 m (λ = 0,024), isolatie 0,15 m (λ = 0,035) en kalkzandsteen 0,10 m (λ = 1,15). Wat is Rt?",
+              "uitleg": "Bereken per laag R = d/λ: baksteen 0,33, spouw 1,67, isolatie 4,29, kalkzandsteen 0,09. Rt = 0,33 + 1,67 + 4,29 + 0,09 = 6,4 m²K/W. 4,3 is alleen de isolatielaag; vergeet de andere lagen niet.",
+              "opties": [
+                "6,4 m²K/W",
+                "1,5 m²K/W",
+                "0,16 m²K/W",
+                "4,3 m²K/W"
+              ],
+              "juiste_antwoord": 0
+            },
+            {
+              "id": 162,
+              "type": "multiple_choice",
+              "vraag": "Welke laag levert in die spouwmuur de grootste bijdrage aan de totale warmteweerstand?",
+              "uitleg": "De isolatielaag heeft R = 0,15 / 0,035 = 4,29 m²K/W. Dat is veel meer dan de spouw (1,67), de baksteen (0,33) en de kalkzandsteen (0,09). De lucht heeft wel de laagste λ, maar de spouw is maar 4 cm dik.",
+              "opties": [
+                "De kalkzandsteen",
+                "De luchtspouw",
+                "De isolatielaag",
+                "De baksteen"
+              ],
+              "juiste_antwoord": 2
+            },
+            {
+              "id": 163,
+              "type": "multiple_choice",
+              "vraag": "Je wilt met isolatiemateriaal (λ = 0,035 W/mK) een warmteweerstand van 5,0 m²K/W halen. Hoe dik moet de laag zijn?",
+              "uitleg": "R = d/λ, dus d = R × λ = 5,0 × 0,035 = 0,175 m = 17,5 cm. 0,7 cm krijg je met λ/R, en 143 met R/λ.",
+              "opties": [
+                "0,7 cm",
+                "143 cm",
+                "1,75 cm",
+                "17,5 cm"
+              ],
+              "juiste_antwoord": 3
+            },
+            {
+              "id": 164,
+              "type": "multiple_choice",
+              "vraag": "Wat is de eenheid van de warmteweerstand R?",
+              "uitleg": "R heeft de eenheid m²K/W. Dat is het omgekeerde van de eenheid van λ (W/mK) vermenigvuldigd met meter: (m) / (W/mK) = m²K/W.",
+              "opties": [
+                "W",
+                "W/mK",
+                "J",
+                "m²K/W"
+              ],
+              "juiste_antwoord": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

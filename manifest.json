@@ -1,0 +1,24 @@
+{
+  "name": "NLT Voel je thuis - Quiz",
+  "short_name": "NLT Tiny House",
+  "description": "Quiz app voor NLT-module Voel je thuis (Tiny House), H3 Theorie bouwfysica en architectuur - 5 havo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#ea580c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
